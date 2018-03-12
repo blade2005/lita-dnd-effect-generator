@@ -1,0 +1,1000 @@
+     1	Colour Change: The caster’s skin changes colour.  This might be advantageous, providing camouflage in certain situations or it might result in circumstance penalties to skill checks in social situations.  Roll 1d10 for colour: 1=green, 2=blue, 3=red, 4=black, 5=yellow, 6=purple, 7=pink, 8=brown, 9=white, 10=gray.  Permanent, although a remove curse could help.
+     2	Extra Limb: The target grows an extra limb.  The limb dangles limply, occasionally mimicking the movement of other nearby limbs.  The new limb sprouts from the target’s shoulder in the case of an arm or his hip in the case of a leg.  The limb does not affect the user’s equipment, provide additional attacks, or affect most in-game situations, but a DM might rule that the limb provides some circumstance penalties in social situations.
+     3	Save: Caster gains +1d8 to her magic saves for 1 turn.
+     4	Summon: You summon forth a tiny blue rabbit that sounds like a frog and smells like a cat.
+     5	Fireball damage: 4d6 It hits a random person; may be dodged (18 or higher)
+     6	Hiccups: The target hiccups uncontrollably for the next hour.  Spell casters must make a successful ME roll in order to cast a spell.  The target suffers a 5% penalty to Prowl until the effects wear off.
+     7	Reversal: The magic affects you instead of the desired target.  (If casting on self, No negative effect.)
+     8	Horrible Taste: A horrible taste overcomes the caster.  If a PE roll is failed, they spend the next 1d10 minutes throwing up.
+     9	Drinks: Suddenly you and each member of your party has a small, triangular shaped glass with a strange alcoholic drink and a green olive on a pick in his hand, instead of any other item they had before.  These other items just vanish.
+    10	Hello: An elephant suddenly appears in front of you, explains that he’s very sorry he didn’t show up earlier and wanders off humming.
+    11	Snow! : 200 ft radius centered on you, moving as you do, (even indoors).  The snow continues to fall for 1d4 hours.
+    12	Bonus…sort of: The spell draws half the amount of spell magic from you and has quadruple effect, but it also effects you and 1d4 other people.
+    13	Body Odor: The target’s body chemistry is slightly altered.  For 10 minutes creatures with scent always know the exact location of the target, provided they are within 20 feet.  Creatures tracking the person by scent gain a 20% bonus to their tracking to do so while the effect lasts.
+    14	Smoke: A cloud of smoke (effective level 13) appears 100 ft in a random direction from you.
+    15	Frothing: The caster starts to froth at the mouth uncontrollably and prolifically for the next hour.  Until the effect ends, they must make a successful ME roll in order to cast a spell with a verbal component.  Roll 1d6 for the colour of the froth: 1=white, 2=black, 3=blue, 4=yellow, 5=red, 6=green.
+    16	Acidic: The caster and the target suffer 1d6 points of acid damage.
+    17	Strong Taste: A strong taste affects someone randomly within 10 feet of the caster (default to caster if no one else is within range.)  Roll 1d6 for taste: 1=onions, 2=beer, 3=horse manure, 4=garlic, 5=cabbage, 6=vanilla.  The person also smells strongly of whatever substance they taste.  Creatures with scent always know the exact location of the person.  Creatures tracking the person by scent gain a 10% to their tracking rolls.  Lasts 3d10 minutes.
+    18	Lets Dance: A faeries dance affects your closest friend wherever s/he is (save standard, effect, caster’s level.)
+    19	Horns: You permanently grow a pair of small horns (2 in each) on your forehead.  Contrasting with your skin colour.  A remove curse may remove them.
+    20	Scent of the Wolf: The target emits the scent of a predator for the next hour.  Domestic animals, including dogs and horses, begin with an initial attitude of hostile.  Creatures tracking the imbiber by scent gain a +5% to their Tracking checks while the effect lasts.
+    21	Stop: Absolutely nothing happens (time stops for 1d4 melees, 100 ft radius.)
+    22	Singing: The caster must succeed at a ME roll or be compelled to sing until her next action.  The singing prevents the person from casting spells, unless they are trained to cast by song. 
+    23	Rats: You find yourself surrounded by 1d100 rats.
+    24	Thirst Quencher: The caster’s thirst is quenched for 1d4 days.  No ill effects from dehydration.
+    25	Elephant Ears: The caster’s ears grow to the size of dinner plates.  S/he gets a +2 Per for the next hour.
+    26	Earthquake: The earth rumbles for 1d4 minutes (1-2 on the Richter scale) 100 yd radius.
+    27	Steamer:  The caster emits steam and mist for the next hour.  The steam is harmless and easily dispersed by movement or even a light breeze, but a DM might rule that the steam provides some circumstance penalties to skill checks in social situations.
+    28	True Name: The true name of the person next to you is revealed, but s/he also gets to know yours.
+    29	Call Lightning: A call lightning at twice your level also hits your target, in addition to the spell working normally.
+    30	Wondrous: Roll for an effect on the rod of wonders table in the DM guide.
+    31	Belch of Titans: The caster belches once with the same effect as a thunderstone.
+    32	Hesitation: Spell is delayed for 1d3 melees and has half effect.
+    33	Belch of Efreeti: The target belches a 30-foot-long cone of fire.  Anything caught within the cone must make a dodge roll of 13 or higher or take 2d6 points of fire damage.
+    34	River of Lava: A river of lava stretches out from your feet in the direction you were looking when the spell was cast.  Effective level is 6th.
+    35	Bearded: The caster grows a 3-foot long beard.  If the caster already has a beard, it falls out instead.  The beard falls out after an hour regardless.
+    36	3rd Eye: You grow a 3rd eye on your forehead.  As a result of this mutation you can see the aura of other people automatically.
+    37	Transformation: You are transformed into a Peacock for 1d8 hours.
+    38	Change Hair: The target’s hair changes colour temporarily.  Roll 1d6 for colour, 1=blonde, 2=red, 3=brown, 4=black, 5=grey, 6=blue
+    39	Change Eyes: The caster’s eyes change colour temporarily.  Roll 1d6 for colour.  1=brown, 2=grey, 3=blue, 4=green, 5=yellow, 6=combination. (Roll twice, ignore any sixes.)
+    40	Thunder: A loud bang with the strength of thunder booms from above you and a new roll for initiative has to be made by any person standing within 150 yards from you.
+    41	Ghostly: The caster becomes slightly translucent.  There is no physical effect (they are still completely corporeal,) and the caster gains no ghost-like abilities.
+    42	Colour:  All of your belongings, real estate included, are turned yellow for 1d4 minutes.
+    43	Oracle: You instantly know the answer to the next 1d10 questions anybody will ask you, and the answers are all right.
+    44	Twist: You really look twisted now.  Your arms and legs change their position for 1d4 days.
+    45	Transparency: Your skin is turned transparent, (horror factor 10) lasts for 1d8 days.
+    46	Heal: Caster is healed of all non-fatal damage incurred thus far.
+    47	Squid: A large squid lands on your head and starts to strangle you.  It deals 2d6 damage/melee.  It has 20 HP and 15 SDC
+    48	Dinner: Dinner’s served for all persons within 50 feet.  (A real banquet with servants and all…)
+    49	Eyes Glow: The caster’s eyes burn with the spell’s power.  The eyes serve as a light source of the intensity of a torch.  The caster suffers no penalty from having the light in his eyes, but it might be difficult for them to hide.
+    50	Intoxicating: The target is struck by the effect of drinking 10 mugs of ale.  They become intoxicated and suffer the appropriate penalties for 1d4 hours.
+    51	Bat: A random person within 100 yards from you is transformed into a bat and flies off to a better-suited place in order to sleep.  The person is permanently transformed, and only a remove curse can return them to a normal life…. if they can be found.
+    52	Camouflage: The caster blends into his surroundings almost perfectly.  While the effect is in place they gain the benefit of a 98% hide/camouflage ability while motionless.  Lasts 1d6 weeks.
+    53	Bonus: the laws of reality forget the spell's cost and you don’t have to spend any of your spells/day casting it.
+    54	Diseased: The caster is infected with blinding sickness. (Pg 175 of the DM’s Guide)
+    55	Oops: You pass out for 1d6 minutes but the spell still has the desired effect.  Although it can’t be cancelled….
+    56	Toothy Grin: The caster’s teeth become elongated, sharp, and pointed.  (Think Ferengi.)  The strange teeth do not affect most in-game situations, but a DM might rule that they provide some circumstance penalties in social situations.
+    57	Levitation: A levitation spell is mistakenly laid on you, effective level 14.
+    58	Healing: The spell has a minor healing effect.  It restores an additional 1d4 HP in addition to its normal effects.
+    59	Bug: A monster insect appears within 20 ft and attacks the nearest person.
+    60	Rain: Heavy rainfall (5 ft radius) centered on you, lasts for 1d3 days.  The cloud is constantly 30 feet directly above your head.
+    61	Slimy Hands: The target’s hands become slimy, and s/he has to make a PP roll each round to maintain their grip on any object s/he is holding.
+    62	Cyclops: Suddenly you know how to create the mysterious Cyclops lightning shafts!!! Why not try it out…(I hope all GM’s are familiar with what happens if anyone does this…)
+    63	Sticky: The caster’s skin becomes sticky, like powerful glue.  The caster must make a PP saving throw to drop an object that they are holding.
+    64	Beard: You grow a beard, 2 ft long, permanent. 
+    65	Aura of Cold: A random person within 5 feet of the caster becomes noticeably cool to the touch.  Although they feel a sever chill, the cold is not great enough to damage either the target or any other creature.
+    66	Aura of Warmth: The target becomes noticeably warm to the touch.  Although they feel severe warmth, the heat is not great enough to damage either the imbiber or any other creature.
+    67	Tongue Growth: The caster’s tongue grows to 3 feet in length.  They cannot speak properly and must make an ME check to cast spells.  Lasts 1d6 hours
+    68	Forgetfulness: As you feel the ripple of the magic energies swirling through your conscious mind, something goes wrong.  You forget the incantation for 1d4 weeks.  The desired spell works as it should’ve, it has 5x the effect and burns off 3 of your spells for the day.
+    69	Scale growth: The caster grows scales all over their body.  Roll 1d6 to determine the colour of the scales 1=blue, 2=black, 3=green, 4=red, 5=yellow, 6=brown.  Scales last 1d10 weeks and then the caster is overcome with an unbearable itchiness and is compelled to scratch at them, unless they make a successful PE roll.  PB is temporarily reduced by 1d6 during the molt.
+    70	OH!: In some strange way the spell makes you feel really good…You have an immediate orgasm and you lose your initiative.
+    71	Energy bolt: An energy bolt (4d6 dam) suddenly shoots out from your left ear and hits the nearest object/person, etc.  (Dodge of 18)
+    72	Hummingbird: The target gains the ability to levitate for brief periods.  The ability to levitate lasts for 10 minutes, but the person can only hover 1 foot off the ground at most and can only hover for a number of rounds equal to their PE.
+    73	Red: Your skin turns red for 1d6 hours.
+    74	Warm to Drink: A random something warm to drink is immediately provided to everyone in a 100-foot radius from the caster. 
+    75	Piglet: As the spell loses its effect you feel something pulling your very genes and in a moment’s notice you find yourself transformed into a cute little piglet. (1d3 months.)
+    76	Cold to Drink: A random something cold to drink is immediately provided to everyone in a 100-foot radius from the caster. 
+    77	Drowsiness: The caster becomes drowsy, and falls asleep for 1d3 hours.  They can be woken normally, as if they were simply taking a nap.
+    78	Where am I?: You teleport 1d100 miles in random direction, but lucky as you are you appear on the ground.
+    79	Constant Alert: The caster needs no sleep for 1d4 days.
+    80	Doppelganger: A doppelganger of yourself is instantly created 5 feet away from you.  The creature pays its humble respects and wanders off to see the world.  (Lasts 1d3 years, Cannot be dispelled, no control is granted the caster, usual restrictions apply)
+    81	Weight Gain: The caster increases in weight by 20 pounds until the effects wear off.  This extra weight counts against what the caster can carry until the effects wear off.
+    82	Boom: A spark, a crack and BOOOOOM! Explosion centered on you does 7d6 damage and decreases with 1d6 damage for every yard.
+    83	Weight Loss: The caster’s weight decreases by 20 pounds until the effects wear off.
+    84	Ring: A magic ring turns up on your index finger (+1 vs spell magic, perm: anent.)
+    85	Amnesia: The caster forgets the events of the last 1d10 hours
+    86	Trees: 2d20 palm trees grow up around you.
+    87	Staining: Everything the caster touches is stained blue for the next 1d6 days.
+    88	Looking for some Happiness?: A prostitute turns up from nowhere and wants to do your bidding.
+    89	Mask of Terror: The caster emits the effects of a fear spell on creatures within 30 feet for the next 1d8 hours.
+    90	Age: You grow 1d10 years older
+    91	Youth: You grow 1d10 years younger
+    92	Cramps: The target is overcome by severe stomach cramping.  They suffer a -2 to attack rolls and -5 to skills.
+    93	Tiny Voice: The caster's voice becomes high pitched like a pixie for the next hour.
+    94	Superman: You receive superhuman strength (same as the spell) for 1d6 hours
+    95	Loud Voice: The caster is unable to speak in a whisper, and his speaking voice becomes louder than normal.  Both effects last for the next hour.
+    96	Lisp: The target speaks with a lisp until the effects wear off. 
+    97	Shock: Wizard is paralyzed for 1d4 hours but makes a full recovery.
+    98	Sparks: Tiny sparks arc from the caster.  The sparks do no damage to the caster or to any other creature.
+    99	Cat: A black cat comes up to you and says she's sorry.
+   100	Repetition: You repeat the spell 1d4 times in the same melee. (Subtract spells/day for all the spells...although even if you don't have enough, the spell still repeats.)
+   101	Distracted: The caster is easily distracted and influenced.  For the next 10 minutes they suffer a -1 penalty to all ME saving throws.
+   102	Jinn: A Jinn, a green one, appears and grants you three wishes....
+   103	Rooted: You grow roots and cannot move for the next 1d4 hours, unless someone cuts off your feet of course.
+   104	Cough: The caster suffers from a distracting cough.  For the next 10 minutes they must make a ME roll to cast a spell.  While the cough lasts, they suffer a -15% to their prowl ability.
+   105	Power: You asked for it.  Spell effect x5
+   106	Sharp Eyes: The caster gains low-light vision.  This effect lasts only 1 minute.
+   107	Death: Death himself comes to claim you.
+   108	Sweat: The caster begins to sweat profusely.  They suffer no in-game effect, but my have a small circumstance penalty to social situations.  Lasts 1d6 hours.
+   109	Ut, Oh.: You're blessed by Colie and receive one random benefit, plus a random curse (most likely mixed together, as is his usual.)
+   110	Repetition: For the next 5 minutes, the caster says everything twice.
+   111	Gezundheit: You catch a very, very bad cold.  Lasts 1d4 weeks.
+   112	Black Eyes: The caster's eyes turn completely black, including pupils, whites, and irises.  The change in eye colour does not affect their vision, but the DM may impose small circumstance penalties in social situations.  (10th level negate magic or a remove curse at ½ will return your eyes to their normal colour.)
+   113	Storm: Heavy storms appear from nowhere and last for 1d3 days, affecting a 1d4 mile radius from where you stood when the spell was cast.
+   114	Long Fingernails: The caster, and everyone within 10 feet of them have their fingernails stretch and curl.  Although they do not affect weapon use or unarmed attacks, they look strange.  The growth is permanent, but may be trimmed in the usual fashion.
+   115	Ribbit: The person on your right grows a pair of frog's legs, permanently, unless they make a save of 14 vs. curse.  Can be removed by a successful remove curse.
+   116	Hair Growth: The caster's hair grows a foot in length.  The growth is permanent, unless cut.
+   117	Twitchy: The caster becomes incapable of standing still for the next 10 minutes.
+   118	Sneer:  The caster's upper lip curls into a sneer.  They are incapable of making any other facial expression for the next hour.  While the effect lasts they are at a -4 to Charm/Impress/Trust rolls.
+   119	Two Effects: Roll twice on this list.
+   120	Armour: You find yourself in a splendid golden chain-mail teleported from the nearest king’s ransom.
+   121	Skeletons: 3d6 skeletons rise from the ground to do your bidding.
+   122	Umm: Was it like that, or? For the moment you can’t remember the spell, try again next melee.
+   123	Mud: The earth around you is turned into mud, same effect level as your own.
+   124	Snowfall: 1d1000 yard radius centered on the nearest person, not you!
+   125	Invisibility: The magic you performed seems to have defied the laws of reality and bends all light that hits you for the next 1d6 hours; you are invisible even to yourself.
+   126	Gateway: For 1 melee a strange oval black disc hangs in the air in front of you and then it disappears (a dimensional gateway to medieval Europe...)
+   127	Coma: You lapse into a coma for 1d8 days, and must roll a save vs. coma/death.
+   128	Plus/Minus: You learn a new spell (random, level 1d10), but you also learn how to fear (roll for random Phobia).
+   129	Golem: A stone Golem rises from the ground and is ready to fulfill your wishes the best it can.
+   130	Benefits: The spell only draws half its usual cost.
+   131	Constipation: Until now it wasn't all that hard, but since you cast that spell...You have constipation for 1d3 weeks.
+   132	Speedy: Hi, Ho, Let’s go! Your speed is doubled for 1d3 days.
+   133	Mute: The spell Mute is mistakenly laid on the nearest person to you, subtract cost for it.
+   134	Minimum: The attempted spell functions, but at minimum possible effect.  (Smallest range, duration, damage, etc.)
+   135	Weapon: You find yourself equipped with an old scythe.
+   136	All thumbs: You grow an extra thumb.
+   137	Fangs: You grow fangs (1d6 bite damage) and have a hard time learning to talk again (speak-15%).  A Remove Curse can remove the fangs. If the caster has fangs already, this surge removes them.
+   138	Healing: One of your permanent damages is mystically healed, if you don’t have any permanent damage; now is a perfect time to roll for one!
+   139	Whew: Spell goes off normally, no extra effects.
+   140	Fireball: You accidentally throw a Level 5 fireball at one of your friends (dodge 18).
+   141	Familiar: You turn your familiar into a blue rocking chair; if you do not have a familiar, go to 451
+   142	Magic Box: A magic picture box comes into your possession.  See Terry Pratchett's The Colour of Magic for details.
+   143	Blind: You are permanently blinded in one eye. (High=Right, Low=Left.  If character is already blind in that eye, this will cure it.)
+   144	Berserk: You go berserk for 1d4 minutes slashing out at anyone within 13 ft.
+   145	Ants: A community of black ants explains its loyalty to you.
+   146	Migraine: You've got yourself so down you got a headache.  Migraine, permanent.  (-1/-5%, 30% chance of occurring when in a stressful situation.)  May be removed with a remove curse.
+   147	Spell Pool: You draw off all the available spell energy within 30 ft into your own pool.  Magic users get a save at 14.
+   148	Scribe: A scribe appears and wants to do the story of your life.  He's very hard to get rid of and won't take no for an answer.
+   149	Turtle: The target of your spell is instantly and permanently turned into a turtle.  A negate magic may restore him/her.
+   150	Beer: You turn out to be holding a beer glass, filled to the tip rather than whatever it was you had.
+   151	Delay: Your spell is delayed for 1d4 weeks, but you're not quite sure what happened.
+   152	Explosion: The target of your spell explodes, and dies instantly.  (PC's get a save vs. magic).  If you're lucky (roll) you may be able to assemble enough pieces to restore and resurrect them.
+   153	Hippo: A hippopotamus walks by ignoring you.
+   154	Wine: 2d20 bottle of the finest wine appear under your bed.
+   155	Pleasure: A concubine or eunuch (whichever suits you best) materializes in front of you and insists on giving you PLEASURE!
+   156	Desert: The surrounding area (2d100 yard radius) is turned into a desert.
+   157	Loss: You lose the ability to cast 1 spell/day.
+   158	Alignment: You reverse your alignment for 1d6 days...Maybe, just maybe, you'll like it.
+   159	Where'd it go?: Gradually you see your left hand wither into nothingness.
+   160	Don't keep it all inside: You pour all of your Spells for the day into this one spell.
+   161	Eureka: You realize what's wrong with this spell and from now on it is never unstable.
+   162	Deaf: You're deafened for 1d10 days by the sound of this spell, which strangely enough only you seem to have heard.
+   163	Fae: A bone-flute-playing fairy accompanies you for a day or two or three...
+   164	Flames: As you cast the spell you burst into flames (same as the spell) for 1d4 melees.
+   165	Assassination: A mad count has you contracted for assassination without apparent reason, but the good thing is that you're aware of it.
+   166	Bat Wings: You find yourself equipped with bat-like wings making it possible for you to glide up to 1 mile under good conditions.  The wings fall off after 1d3 weeks.
+   167	Death: The person next to you dies instantly.  (PC's get a standard save vs. magic.)
+   168	Elemental: An angry minor earth elemental rises from the ground to kill your party.
+   169	Illiterate: You forget how to read for 3d4 days.
+   170	Cure insanity: One of your insanities is magically cured; if you have none then it's time to roll for one now.  (You get a save vs. insanity.)
+   171	Troll: A maddened tribe of trolls set out in order to make dinner of you, but in some strange way you're aware of their plans and can act accordingly.
+   172	Fire: You set the nearest forest ablaze.
+   173	Wanted: You're mistaken for a wanted person in the next town you enter.  You will eventually be able to clear yourself, but it may take some doing.
+   174	Exactly: You get the desired spell without any costs.
+   175	Oops: A random person within 30 feet is knocked down, if there's no one around you're down instead.
+   176	Toad: Instead of a spell, a big green toad crawls out of your mouth and hops off.  Spell cost is still the same though.
+   177	AR: You receive a natural AR of 15 since your skin is turned into bronze scales for 1d6 days.
+   178	Guts: You spill your guts all over the ground and fall into a coma, roll to save vs. coma/death.  (Death if no one gets your insides back where they belong, otherwise coma)
+   179	Pink Eye: Your eyes are turned into a neon pink liquid for 2d4 hours.  They still function normally.
+   180	Attack: The next person you tell your name to will instantly attack you, but you know it.
+   181	Seesaw: You find yourself sitting on a transparent seesaw facing the target of your spell.
+   182	Burn: Everything you touch for the next 3d3 hours starts to burn.
+   183	Phantom Footman: A phantom footman turns up and offers his help.
+   184	Berserk: 1d6 of your friends get to save vs. magic if they fail they'll fall into a mindless frenzy and go berserk for 1d4 melees slashing out at anyone within 5 feet.
+   185	Lightning Bolt: A lightning bolt strikes the wizard for 6d6 damage.
+   186	Hole: The earth beneath your feet opens up and you fall 30 yards down a hole taking 9d6 points of damage.  After two minutes the hole closes and if you're still there, only the gods can save you.
+   187	Well: A well is created beside you.  This may be a wishing well, so lets try it!
+   188	Lost: All of your belongings, except holy and rune weapons are lost.  The items just disappear into thin air.
+   189	Hallucinations: You hallucinate for 1d12 months.  The hallucinations are completely up to the all-powerful GM.
+   190	Milk: 1d10 gallons of way too old milk splash down upon your body.
+   191	Energy: The magic energies didn't quite leave when you were finished with them, instead they hung onto you and from now on your hair always stands straight up, your handshake jolts and static electricity sparks appear on your body now and then.  This also makes you only suffer half damage from electrical attacks.  You literally glow in the dark.
+   192	Witch Hunter: A famous witch hunter starts taking interest in your affairs...
+   193	Diarrhea: Hits you like a lightning strike from a clear sky.  Lasts for 1d8 hours.
+   194	Hello: All your friends, even distant ones, are mystically teleported to your location.
+   195	Love Charm: A random person within 30 yards falls in love with you, no matter how strange it may sound.
+   196	Roses: Red roses start growing from your ears.  They fall out after 2d3 weeks
+   197	Gold: Well sort of, your pockets always seem to be filled with golden coins.  Same as fool's gold lasts for 1d4 weeks.
+   198	Insomnia: You cannot sleep or rest properly for 1d3 weeks and in that time you cannot recover any ISP, or spells/day.
+   199	Parasites: Your body becomes infested with all kinds of parasites that can literally be seen crawling all over you.  Roll save vs. insanity every week, minimum 2x.  Lasts 1d6 weeks.
+   200	Protector: From this day on someone or something looks out for you and in some strange way you always seem to have your back covered.  All Luck rolls are automatic.  (If you roll this again, you go back to normal, and rolling it a 3rd time it will reverse.  Then continue in that vein + 0 –  0 + , etc.)
+   201	Ouch: Roll for permanent injury.
+   202	Fae: A spriggan disguised as a gnome comes up to you and asks what's wrong with that stone circle a few hundred yards away.
+   203	Plague: You seem to have caught a rather common deadly disease; PLAGUE! (Bubonic that is.)  Unless properly treated you'll die within 3 weeks.  Sorry.
+   204	Wall of Force: A Wall of Force appears in front of the caster
+   205	Hedgehog: You notice a little pink hedgehog sitting on your head and at the same time you loose your initiative.
+   206	Skunk: Caster smells like a skunk for spell duration.
+   207	Moose: A moose comes up to you and whispers in your right ear.  "You can't hear this with your left can you?" When he has said this he looks at you for a moment and wanders off mumbling.
+   208	Snakes: Caster shoots forth 8 non-poisonous snakes from their fingertips.  Snakes do not attack.
+   209	Fireball: 1d10 small fireballs (1d6 dam each) erupt from your face and fly in random directions.  30% chance of hitting anyone within 30 feet.
+   210	Itch: Caster's clothes itch unbearably (-2 init.)
+   211	Exoskeleton: You grow a permanent exoskeleton, like a beetle.  AR 15, HF 12.  May be removed by remove curse.  Roll vs random insanity every other month.
+   212	Glow: Caster glows as per a light spell.
+   213	Nexus: You know the exact location of the nearest Nexus Point.
+   214	60-foot radius: The spell has a 60-foot radius centered on the caster.
+   215	Animate Plants: All plants within 30 feet try to kill you for 1d6 minutes. (Same as Animate Plants.)
+   216	Words of Truth: The next phrase spoken by the caster becomes true, literally for 1 turn.
+   217	Insects: Somehow you cast the spell Metamorphosis: Insect, on yourself and see the world from a snail's point of view for 1d8 melees.
+   218	Vision: All those within 50 feet of caster who have any special vision (night, infra, dark, etc.) lose it, and all who don’t, gain Nightvision for 1d6 turns.
+   219	Coming up from behind: Your head is turned backwards for the first time in your life, and pleased as you are to see your own behind, after a while it becomes quite uncomfortable.  Lasts 1d6 weeks.
+   220	Spin: Caster pivots 180 degrees
+   221	Pinocchio: You grow a 10 in long red nose, permanent.  May be removed by a remove curse.
+   222	Boom: Caster's face is blackened by small explosion.
+   223	Do you like...Music?: A church organ materializes 60 feet above your head and decides to fall on you, if a perception roll is made a dodge may be tried at 18.  Otherwise you suffer the wrath of a god in the shape of 10d6 points of damage.
+   224	Allergy: Caster develops allergy to his magical items.  Character cannot control sneezing until all magical items are removed.  Allergy lasts 1d6 turns.
+   225	Wind Rush: A wind rush (same as spell) also hits your target.
+   226	Enlarge: Caster's head enlarges for 1d3 turns.
+   227	Now you've done it: Your magic has upset the very forces of nature.  1d8 minor elementals turn up to give you and your party a lesson you may not be able to forget.
+   228	Eternal Flame: An eternal flame is instantly created where you stand.
+   229	Reduce: Caster reduces (reversed enlarge) for 1d3 turns.
+   230	Love Charm: Caster falls madly in love with target until a remove curse is cast.
+   231	Bard: A pygmy quire steps out from hiding, sings folksongs for 1d6 minutes, bows respectfully and departs chanting.
+   232	Duration: Spell must run full duration; caster cannot cancel the spell at will.
+   233	Wooden Leg: One of your legs turns out to be made of pine.  Permanent, although a remove curse or a saw can remove it.
+   234	Polymorph: Caster polymorphs randomly
+   235	Bubbles: Colourful bubbles come out of the caster's mouth instead of words.  Words are released when bubbles pop.  Spells that are not stilled cannot be cast for 1 turn.
+   236	Portrait: a messenger delivers a full size portrait of you shortly after the spell has been cast.
+   237	Reversed: A reversed tongues affects all within 60 feet of the caster.
+   238	Teleport: You and all others within 30 feet are instantly teleported to a location totally alien for the party.
+   239	Wall of Fire: Wall of Fire encircles caster.
+   240	Stench of Hades: A stench of Hades (same as spell) is cast on you by a passing seagull that flies off laughing.
+   241	Enlarge: Caster's feet enlarge, reducing movement to 1/2 normal and adding -4 to initiative rolls for 1d3 turns.
+   242	Chain: A 200-foot long chain appears on the ground for a few seconds before it blinks out of existence.
+   243	Lets Share: Caster suffers same spell effect as target.
+   244	Wolves: Suddenly you find yourself surrounded by a pack of frenzied hungry northern timber wolves.
+   245	Levitate: A random person levitates 20 feet for 1d4 turns.
+   246	Inheritance: You inherit a large estate from a senile Baron.  This is told to you by a messenger who also asks you to attend the funeral, which will be held soon.
+   247	Cause Fear: The target emits a cause fear on all within a 60-foot radius.  Standard save.
+   248	Golem: An Iron golem steps up to you and explains that he's ready to serve you now.
+   249	Squeak: Caster speaks in a squeaky voice for 1d6 days.
+   250	Green: Your eyes turn snotling green.
+   251	X-ray: Caster gains x-ray vision for 1d6 rounds.
+   252	Shrink: A random person in your vicinity is reduced to 6 inches tall, permanently.  A negate magic may restore the victim to a normal life.
+   253	Age: Caster ages 1d20 years.
+   254	Silence: Silence, 15 ft kkradius centers on caster.
+   255	Fleas: These small creatures are now a part of your small universe.
+   256	Pit: A 10x10 pit appears immediately in front of caster.  5' deep per level of the caster.
+   257	Ooo: From this day and for 1d10 weeks, all of your spells cost only 1/2 of what they should to cast.
+   258	Reverse Gravity: Gravity beneath the caster's feet is reversed for 1 round.
+   259	Hair: Your hair is turned white as chalk.  Permanent.
+   260	Streamers:  Coloured streamers pour from caster's fingertips.
+   261	Yellow: All people, including you, within 40 feet are turned completely yellow for 1d3 days. (Possessions too.)
+   262	Random: Caster is exempt from all random determinations, for the next 24 hours.
+   263	Snake: A light brown snake bites you in your left knee.  It is a non-poisonous snake and it only deals 1 point of damage.
+   264	Invisible: A random person within 100 yards of you becomes invisible.
+   265	Double: You instantly double the number of spells/day you can cast.  Lasts 1d3 days.
+   266	Butterflies: Streams of butterflies pour from the caster's mouth.
+   267	Colour: Colour sprays from the caster's fingertips
+   268	Pegasus: A Pegasus appears and if you are of good alignment, it offers to be your steed.
+   269	Fire: You scorch yourself on the cold blue magical flames that suddenly engulf you as you burn all of your spells for the day  (1d6 damage for each spell)  If you have more than 2 dice of damage, the scars left on you by this horrible experience will reduce your PB by 1d6 permanently.  (A healer will be able to help.)
+   270	Footprints: Caster leaves monster shaped footprints instead of his own until a dispel magic is cast.
+   271	Goblin: A hard-core goblin child attacks you from behind with a crude cudgel; he will flee if he suffers any damage.
+   272	Gems: 3d10 gems shoot from the caster's fingertips.  Each gem is worth 1d6x10 GP
+   273	Pixies: 13 common pixies make your and your friends life miserable for 2d20 hours.
+   274	Music: A light aria fills the air.
+   275	Lightning: Lightning strikes the tallest person in your vicinity, it might even strike you.  (Damage 6d6)
+   276	Food and Water: Create food and water.
+   277	Amnesia: Amnesia hits you like a hammer and you can't even remember who you are for 4d6 hours.
+   278	Extinguish Fire: All normal fires within 60' of the caster are extinguished.
+   279	Joton: A Joton makes you his enemy and comes looking for you.  In some strange way you're aware of it.
+   280	Draining: One magical item within 30' of the caster (randomly chosen) is permanently drained.
+   281	Stones: Every stone within a 50 ft radius starts jumping in all directions; if there are boulders present they might even hurt someone unless a dodge vs 14 is made each melee.  (Damage 2d6)  The stones stop jumping after 3d6 melees.
+   282	Magic: One normal item within 30' of the caster (randomly chosen) becomes permanently magical. (DM choice as to type of magic.)
+   283	Earthquake: An earthquake comes to visit the area surrounding you.  (300-yard radius, 4-5 on the Richter scale.)  Buildings shake and might crumble.
+   284	Bonus: All magical weapons within 30 feet of the caster are increased by +2 for 1 turn.
+   285	Smoke: Smoke trickles from the ears of all creatures within 60 feet of the caster for 1 turn.
+   286	Growth: Your ears grow three times larger, permanently.  May be removed by a remove curse.
+   287	Dancing Lights: As per the spell for 1d10 minutes
+   288	Puppy: You're transformed into a cute little Yorkshire terrier for god (DM) knows how long
+   289	Hiccups: All creatures within 30 ft of the caster begin to hiccup.
+   290	Jinn: A black Jinn materializes in front of you and bows.
+   291	Open: All normal doors, secret doors, portcullises, etc. (including those locked or barred) within 60 feet of the caster swing open.
+   292	Reward: The king of the country you're in decides you're responsible for a plot made against him and sets a reward of 10,000 gold on your head.
+   293	Exchange: Caster and Target Exchange places.  Each keeps their own clothing, possessions, etc.
+   294	Smoke: Smoke trickles from the ears of the caster for 1d6 days.  Harmless.
+   295	Random: Spell affects a random target within 60 feet of the caster.
+   296	Claws: You grow claws, horrible black, non-retractable claws. (Dam 2d6+2)  They may be removed by a remove curse, if you find a priest that can be convinced you're a good guy that is.
+   297	Blind: Caster is temporarily blinded for 2d4 days
+   298	Failure: Spell fails
+   299	Silk: You find yourself dressed in the finest silk garments, but you've no idea of where your armour is.  (Or whatever you were wearing.)
+   300	Going up?: You are lucky to be instantly teleported 451 yards straight up into the air.  And on your way down you have a splendid view.  Hope you'll live to tell about it. (Dam 20d6)
+   301	Weather: Sudden change in weather (temperature raise/fall, snow, rain, etc) lasting 1d6 turns.
+   302	Blue: Your ears turn permanently light blue.  May be removed by a remove curse.
+   303	Bang: Deafening bang affects everyone within 60 ft.  All those who can hear must save vs spell or be stunned for 1d3 rounds.
+   304	Necklace: You notice a necklace around your neck that wasn't there before.  Anyway you can't take it off and as another bonus it gives you a +2 vs possession.
+   305	Exchange: Caster and target exchange voices until a Remove Curse is cast.
+   306	Gate: Gate opens to a randomly chosen outer plane; 50% chance for an extra-planar creature to appear.
+   307	Key: You find a key in your pocket.  What is it for?
+   308	Shriek: Spell functions normally, but also shrieks like a shrieker.
+   309	Specter: A raving specter starts terrorizing you and your party.
+   310	Decrease: Spell effectiveness (range, duration, etc,) decreases 50%
+   311	Elemental: A minor air elemental offers you its help.
+   312	Reversed: Spell reversed if reverse is possible.
+   313	Chess: A nearby tree asks...."A game of chess, hmmm?"
+   314	Physical: Spell takes physical form of free-willed elemental and cannot be controlled by caster.  Elemental remains for duration of spell.  Touch of the elemental causes spell effect.
+   315	Fae: You can feel the rhythm, even before you can hear the wonderful music.  A fairies dance affects the entire party (same as your effect level.)
+   316	Glow: All weapons within 60 ft of caster glow for 1d4 rounds.
+   317	Orcs: A pack of Orcs selects you to be their next victim.
+   318	Suspend Save: Spell functions normally, any applicable saving throw is not allowed.
+   319	Damage:  Target takes 5d10 hit points damage
+   320	Dagger: You find a dagger in your boot.
+   321	Diminish: Spell has only 1/4 effect and duration
+   322	Glow: All magical items within 60 ft of caster glow for 2d8 days.
+   323	Switch: Caster and target switch personalities for 2d10 rounds.
+   324	Look Out: A warrior's arm and sword in another part of the world happens to slash through a hole in space hitting you instead of its intended target.  You get a really good close-up of a dwarven-made broadsword taking 1d8+4 points of damage in the process.  May be dodged if initiative is 16+
+   325	Extinguish: All magical fires within 40’ of the caster are extinguished.
+   326	Luck: Caster may gamble up to 5 points of her luck stat on a future saving throw. If the save succeeds, the points are not lost. If it fails, she loses the points and must regain them normally.
+   327	Delude: Your target is Deluded.
+   328	Backfire: For a moment you seemed to be getting away with it, but your spell backfires and goes off in a random direction.
+   329	Lightning: Chain Lightning strikes random targets at your effect level.
+   330	Webbing: You grow webbed hands and feet, permanently.  Swim +10%
+   331	Enlarge: Target Enlarged.
+   332	Violin: A well dressed violinist steps out from a shadow and plays a song for you, when he's finished he bows, turns around and implodes.
+   333	Imprisoned: Target is imprisoned on another plane.
+   334	Plant Growth: Plant Growth centered on target.
+   335	Vanish: 1,000 lbs of non-living matter within 10' of target vanishes.
+   336	Fireball: Fireball centered on target.
+   337	Petrification: Target turns to stone.
+   338	Heal: Everyone within 10 ft of the caster receives the benefits of a heal all but 1d4.
+   339	Dizzy: Target becomes dizzy (-4PP and cannot cast spells) for 2d4 rounds.
+   340	Wall of Fire: A wall of fire appears running down the middle of the street.
+   341	Ethereal: One of the target’s allies turns ethereal for 1d10 rounds.
+   342	Blindness: Target suffers blindness
+   343	Charm: Target is charmed as per charm monster
+   344	Forget: Target forgets who he is for 1d6 hours.
+   345	Enlarge: Target's feet enlarge, reducing movement to 1/2 normal and -4 to all initiative rolls for 1d3 turns.
+   346	Rust: A rust monster appears in front of the target.
+   347	Polymorph: Target polymorphs randomly.
+   348	Transgender: Target changes sex for 1d3 months.
+   349	Rain: Target has a small, black rain cloud form 3 feet over their head.
+   350	Stinking Cloud: A stinking cloud centers on the target.
+   351	Look Out: Heavy object (boulder, anvil, safe, etc.) appears over target and falls for 2d20 points of damage.
+   352	Sneeze: Target begins sneezing.  No spells can be cast until fit passes. (1d6 rounds)
+   353	Area of Effect: Spell has a 60 ft radius centered on target; everyone within the radius suffers the effect.  Even spells that are normally not an area of effect have the same area.
+   354	Itch: Target's clothes itch (-2 to initiative for 1d10 rounds)
+   355	Who am I: Target's race randomly changes until cancelled by dispel magic.  Roll for a new race every day.  Stats remain the same.
+   356	Ethereal: Caster turns ethereal for 2d4 rounds
+   357	Let's Go: Target hastened.
+   358	Dust: All non-magical articles of clothing on target, crumble to dust.  Magic clothes receive a save.
+   359	Plant: Target sprouts leaves (no damage cause, and they can be pruned without harm)
+   360	See Magic: Caster gains the ability to see magic for a month. The sensitivity is so great that if she looks at a +5 or greater item she is flash-blinded for d4 rounds. She should probably invest in Ray-Bans.
+   361	Colour: Target changes colour (cancelled by dispel magic)
+   362	Duration: Spell has a minimum duration of 1 turn (i.e. a fireball creates a ball of flame that remains for 1 turn, a lightning bolt bounces and continues, possibly rebounding, for 1 turn, on the other hand, a healing spell activates every melee for one turn.)
+   363	Metamorph: Caster is metamorphosized into a goat for 2d6 days
+   364	Bonus: Spell effectiveness, increases 200%
+   365	Frog: A passing frog stops and says "You'd better behave or I'll....." then hops off
+   366	Dentist: You drop all of your teeth in your upper left jaw.
+   367	Shrink: Your head shrinks to 1/2 of its normal size, permanently.  May be removed by a remove curse.
+   368	Double Take: Your spell takes effect and then everything goes black for a few seconds.  When you open up your eyes again you are standing in a long 20 ft wide, 100 ft long corridor which has its walls lined with strange chairs, two on each side.  Every chair has a strangely clothed human in it.  120 people in all.  They all stare at you, mouths wide open.  Though small oval windows on the walls you can see clouds and you can hear a distant humming sound.  There is a strange door to your right.  After about 10 seconds, everything goes black again and you're back where you started.
+   369	Tail: You grow a hairy tail, 3 ft long, permanently.  May be surgically removed.
+   370	Loss: You loose control of yourself and your brilliant DM can do as he pleases with your character for 1d4 melees.
+   371	Flowers: A bunch of flowers, different types, 24 all in all. Appear before your feet with a card. The card reads: "We humbly apologize for not telling you to duck earlier... Love: The council of most unbelievable and unpredictable accidents." If you look up when you’ve read this you see a gray stone made windmill falling directly on you from the sky. You may dodge it (14 or higher) or suffer 10d20 points of damage.
+   372	Goat: One of your present, random companions turns into a black goat for 1d4 days unless s/he makes a save vs. spell magic of 15 or higher.
+   373	Drunk: You realize that you’re blasted on dwarven moonshine. (-4/-40%) You’re drunk for 1d12 hours and have terrible a hangover for 1d8 hours with half of the penalties.
+   374	Shooting Stars: A star falls from the sky crashing into the nearest village. You know you’re responsible.
+   375	Orcs: A shrubbery a few yards away warns you of a nearby band of Orcs.  Actually true, but far too late.  10 Orcs step up to your party and explain that they're going to eat you for supper. (Low-level mercs.)
+   376	Come again: You reverse your sentences for 1d3 hours.
+   377	Horn: A random person in your vicinity permanently grows a skin coloured 1 ft long crooked horn on their forehead (ram attack does 1d6 dam, plus dam bonus.)  May be removed by a remove curse.
+   378	Friend: The next stranger you talk to will mistake you for an old friend.
+   379	Bees: You're attack by a whole nest of wild bees.  The attack lasts for 1d6 melees.
+   380	DM Special: Choose one, or randomly select from secondary chart.
+   381	Rat: A rat offers to be your pet, if you're prepared to feed it with one pound of cheese a week.
+   382	Ears: You grow pointed ears like an elf, if you are an elf, your ears grow to double size, permanently.
+   383	Demon: Summon lesser demon (DM's discretion.)
+   384	Chin: You permanently grow a pointed chin.
+   385	Eyes: Your eyes permanently turn wine red. (Iris only.)
+   386	Armour: You appear to have been awarded with Armour of Ithan, but you don't know for how long.  (1d6 hours.)
+   387	Zombie: A zombie (same as spell) rises from the ground to do your bidding.
+   388	Gold: You notice a small chest full of gold and jewelry standing a few feet from you.  The gold is real and it is worth about 25,000 gold pieces.
+   389	Wanted: A respected noble claims that you owe him 56000 gold pieces and sets a reward of 5000 gold pieces to anyone who can bring you before him alive.  You become aware of this when you see your own picture posted in the next town you enter.
+   390	Petrification: A petrification is mistakenly laid on one of your companions.  Subtract the appropriate cost.
+   391	Darkness: You find yourself in a black small room.  You can see light peeking in from a crack in what might be a door.  If you open the door you realize that a cupboard must have materialized around you.  The cupboard is of good quality and has several sets of fine tailored clothes in it.  Everything fits as if made for you.
+   392	Raven: A raven considers itself to be your pet.
+   393	Intangible: The next sword that hits your body will simply slide through and you will not suffer any damage.  This particular sword will not be able to hit you for the next 1d10 days.
+   394	Bird: You turn yourself into a Sulfur-Crested Cockatoo for 1d4 days, but retain your self-control.
+   395	Repeat: The spell you cast will repeat itself at the same time of the day for 3d6 days.  Spell cost will of course have to be subtracted.  If you're out of spells the spell won't repeat that day.
+   396	Add: The spell you just cast cost nothing; in fact, you just gained an additional spell.
+   397	Burn: The magic energies are warped and directed at you instead and your body starts to burn taking 5d6 points of damage every melee for 1d6 melees.
+   398	Random: You change your eye-colour randomly through the common colours for your race.  (Lasts 1d10 weeks)
+   399	Whoops: You loose your balance and fall to the ground, which means that the spell didn't work, and you retain your spell cost, but loose the initiative.  Try again next melee.
+   400	Fertility: Sometimes a spell goes wrong, very wrong and this is one of those times.  If you are a male then you are from this day on impotent, but if you are a woman, you are pregnant, whether you want it or not.
+   401	Xmas: A strange pine tree appears in front of you.  It is highly decorated as if part of some strange ritual.  If you examine it closely you can see small dolls hanging from its branches featuring a bearded man in red clothes.  Burning candles also line the branches.  Under the tree there are some packages in multi-coloured paper, each one bearing a label...
+   402	What did I just say: Somehow you didn't quite understand how it was you were supposed to pronounce those last words and the spell is certainly not the desired one, DMs choice.
+   403	1000th Magic: A small apple tree materializes in front of you. It is about 6 ft high and planted in a large pot. The tree has a glittery aura and if examined closer by a magic user it will radiate powerful magic, in fact the whole tree is extremely magic. The tree monthly grows 1d6 red glass-like apples each containing 50 ISP The tree has to be kept in a suitable environment or it’ll die. This plant is of a magic, practiced by the Titans and some Elves and Dragons during the elf-dwarf wars, long forgotten called; "Th’aghf Zathciuwa’gh Ghathyur’eigh" or " The way of the trees". If not treated properly the tree will die. Once the apples are picked they will last for centuries. There are no cores in the apples, once each century the tree will grow one green apple (containing 2000 ISP!!!) that can be planted to yield another 1d8 trees.  There is a 1% chance that the tree has a green apple when it materializes.
+   404	Weight: Weight increased by 3d100 lbs for 1d6 months.
+   405	Goat: You grow the legs of a black goat permanently.  Increase SPD by 2d4 points.  May be removed by a remove curse.
+   406	Get Off: "Just who do you think you are!!??  GET OFF MY HEAD!!!" Screams a stone from under your boot and gives you the evil eye. (Not the psionic or curse.)
+   407	Desert: The whole party is suddenly in a desert.  You can hear the sound of a distant battle raging through the air.  If you look closer you can see a battle going on in a valley.  There are only humans that are part of this battle.  (DM: The characters have been teleported to 900 AD during the Middle Eastern Crusades.)  The group will remain in this dimension for 1d4 days and will then be teleported back to the same place and time as they left.
+   408	Potion: A potion lies before you on the ground. (Faeries dance level 5)
+   409	Fireball: A fireball is also directed at your target.  Same level as you.  Subtract spell cost.
+   410	Spell: You learn a new spell (Random) that of course is unstable and this also makes one of your other spells unstable (random,) the problem is just that you don't know which one.
+   411	Snake: A snake, typical for the terrain offers to be your pet.
+   412	Duck: You hear a whistling sound above your head.  A shell from a WWII howitzer is dimensionally teleported to this world and explodes 50 yards above your heads.  Spreading shrapnel over a 200-yard radius.  60% chance of taking 8d6 points of damage, 30% chance of starting a fire.  You are deafened for 1d6 minutes, if you survive that is.
+   413	Question: A voice in your head says, "You have only one question, but you may ask me anything.  I will answer truthfully."  You see an old bearded man in a red silk robe standing before you and you notice that time seems to have stopped.
+   414	Raise Dead: A nearby cemetery is accidentally affected by a powerful raise the dead spell producing 10d8 skeletons that set off to terrorize the countryside.  The creatures will kill all living beings that get in their way.
+   415	Blow Worm: A blow worm surfaces 30 yards away and dives in your direction.
+   416	Blisters: You develop blisters.  First on your hands and a few days later your arms.  After a week your entire body is covered and the blisters begin to turn into sores.  You realize only too late that you've caught the disease leprosy.  Unless magically treated you will die in 1d6 weeks.
+   417	Bard: A bard in a nearby town writes a hit-song about your groups' heroic deeds, which results that in a year or two each existing group members' renown will be increased by 1 point.
+   418	Wolfen: An order of outcast magicians in the Wolfen Empire sends you their greetings and an invitation to their annual celebration of the equinox.
+   419	Faeries Dance: Everyone within a 150-yard radius, except you of course, is affected by the spell Faeries dance (effective level 4) and you find yourself lacking your entire spell reserve.  The affected people get a save vs magic of 14 or higher. 
+   420	Vomit: You vomit uncontrollably for 1d6 melees producing a strange green foul smelling thick liquid taking 2d4 points of damage directly to your hit points.
+   421	Got a hand: You grow another pair of arms, permanently.  May be removed by a remove curse.
+   422	Lead: A pool of boiling lead is created 10 feet above your head.  You are aware of it and may dodge it (10 or Higher) If you fail you will suffer 8d6 points of damage. 
+   423	Rat: A rat crawls up your back and bites you in your left ear and runs off leaving you with an infected wound.  You also receive one point of damage.
+   424	Concentrate: Since you weren't concentrating hard enough the spell fails and you loose half a spell cost.
+   425	Initiative: In some strange way you automatically loose the initiative for 1d8 melees.  But the spell works and has double effect.
+   426	Skeletons: 1d4 skeletons rise from their graves to tear your soul apart.
+   427	Crest: You grow a 5-inch high dark crest, permanently.  May be removed by a remove curse.
+   428	Lycanthrophy: From this day on you can't remember anything from certain full-moon nights since you suffer from Lycanthrophy.  May only be removed by a remove curse.
+   429	Peaches: A peach tree starts growing in one of your bags.
+   430	Fly: Caster is able to Fly, as the spell, at will, for one month.
+   431	Hole: A five-mile long 200-yard wide 500-yard deep hole in the ground opens up a short distance away.  Permanent.
+   432	Crystal: The back of your skull is from this day on made of crystal, permanently.  Mind the head, please...
+   433	Shrub: You are instantly turned into a thorny shrubbery with small blue flowers and red berries.  You may think and speak.  Lasts 1d6 weeks.
+   434	Elemental: A major earth elemental decides to rid the world of you.
+   435	Blue: Skin turns pale blue for 2d6 months
+   436	Amnesia: You forget your name and profession for 1d4 weeks.  You retain your skills and may react but you are not aware of what you're capable of.
+   437	Butterfly: A passing butterfly tells you to shut up.
+   438	Quest: A god (random, of course) "awards" you with a quest (the nature of the quest is up to the DM. You may decline....
+   439	Allergy: You develop a severe allergy to the subject you were using your magic on, but you also permanently reduce the cost of your spell by 1/2.
+   440	Death Cult: You find yourself to be the next victim of a secret death cult located near your home.  You are aware of this but you do not have the faintest idea of how you became aware.  Today is the perfect day for writing your testimony.
+   441	Elemental: A greater Fire elemental sees you as one of the ancient "lost" elementals and in order to help your quest it grants you resistance to all kinds of fire and heat (magical or non-magical.)  You also grow the mark of fire on your forehead and your pupils from now on glow with a deep red light.  May be removed by a remove curse at 1/3 of normal chance.
+   442	Blue: All people, including you, within 40 feet are turned completely blue for 1d3 days. (Possessions too.)
+   443	Ooze: Your hands and lower arms are turned into an oozing yellow liquid for 1d3 minutes.  If more than a quarter ounce of it gets out of place, you will need a restoration for them to be functional again.
+   444	Itch: You feel an itch on your back.  As you scratch yourself you become aware that something is not as it used to be.  You grow 1d12 hand sized green mushrooms on your body.  Each mushroom may be removed, but it will inflict 1d3 points of damage directly to your HP in the process.  Good Luck.  After a month they fall off naturally. (causing no damage.)
+   445	Gills: You grow gills and cannot breath air anymore.  You must find a large body of water within 3 minutes or die from suffocation.  Luckily for you the gills work in both salt and fresh water.  Lower PB by 1d6 points.
+   446	Gold: You find that your nose has turned into 24 carat gold.  May be removed by a remove curse, or sold.  Lower PB by 1d3 points.
+   447	Abduction: The only thing you remember is that you were about to cast a spell and that a shimmering turquoise light engulfed you.  Your friends on the other hand have a completely different tale to tell: Suddenly you disappeared and were gone until now. (1d12 days have passed.) No one knows what really happened to you during this time, but you have a strange feeling that someone else can see, hear, smell and feel all that you experience.  It seems as though you have been abducted by something or someone...Roll save vs random insanity.
+   448	Frog: A flash, a puff of smoke and a little pink frog.  That is all that remains of your spell. (Remove it from the list, you've forgotten it.)
+   449	Wasps: In addition to your spell you conjure up a wasp's nest inside your target's mouth.
+   450	Bonus: Desired spell at twice your effective level.  (If you are multi-classed, add all your levels together and double it.)
+   451	Thumbscrew: When you cast the spell you also notice that your left thumb is somehow stuck.  You discover a silvery thumbscrew is attached to your thumb.  It may easily be removed.
+   452	Hair Growth: Your hair grows an inch per turn for the next 2d10 hours.
+   453	Drain: Drain target’s magic items (except artefacts) of all enchantments; each item gets a save
+   454	Luck: Luck sees you as a promising piece in the game and awards you an automatic successful dodge/save against the next supernatural attack directed at you.
+   455	Eye: Your right eye pops out of its socket and hangs swinging in its nerve thread.
+   456	Colour Blind: You become colour blind for 1d3 weeks.
+   457	Bonus: You instantly triple your spells/day.  Lasts 1d6 turns.
+   458	Unicorn: A unicorn offers to be your steed, if you are of a good alignment.  An evil character on the other hand finds themselves covered with 2d8 hungry tinder spiders.
+   459	Size of the Behemoth: You become aware of the workings of the spell "Size of the Behemoth"  It's unstable of course.
+   460	Curse: the next priest of darkness you encounter casts a random curse upon you.
+   461	Arrow: The next arrow fired in your vicinity will hit your head.  Normal damage.
+   462	Pilgrims: A group of wandering pilgrims (3d6) mistakes you for a saint and starts harassing you with prayers, offerings and submission.  They will be very hard to get rid of and may act violently when the truth is revealed, depending on their religion of course.
+   463	Forget: The world 'forgets' you for 1d4 hours and you are practically invisible during this period.
+   464	Teeth: You grow an extra set of teeth, permanently.   -19% to speak any language.
+   465	Nothing: Absolutely nothing happens and you loose the rest of your actions for this melee.
+   466	Boars: A pack (2d6) of wild boars are accidentally summoned to a location 100 ft to your left.  There is a 75% chance that these fierce buggers will attack, if this is the case they will attack the nearest humanoid.
+   467	Psionics: You find your empathic self awakened as you suddenly become 'aware.'  You have become a latent psionic.  If you already have psionics you will find that you have 'moved up' a step (latent become minor, minor become major, major become master, master get the 00 bonus.)  If your race is not capable of psionics see 505
+   468	Water: 200 gallons of water soak the caster.
+   469	Truth: Some people to the left of you (1d8 randomly selected,) will be affected by the spell Words of Truth for one full day. (Save 15 or higher.) 
+   470	Shadow Meld: You are affected by the spell Shadow meld for 3d6 melees (save at 15 or higher)
+   471	Horse: the next noble you encounter presents a warhorse of the finest breed without any markings to you as a token of eternal friendship.
+   472	Flame: A wall of flame, effective level 7 is instantly created 10 feet behind you.
+   473	Protection: An active circle of protection from magic (strength +2) is created where you stand.
+   474	Sketch: A sketch of you falls to the ground beside you.
+   475	Reverse: You reverse every other word for 1d4 hours.
+   476	Multi-Class: Caster Multi-classes, to a random profession.  They can skip the apprenticeship and start at level 1.
+   477	Pressure: You feel something invisible giving pressure from all around your head.  Save vs 16 or pass out for 1d6 melees.  Your friends on the other hand witness your head shrink to the size of an apple.  Your eyes, nose, mouth ears, teeth, throat do not shrink.  The effect is permanent and will not affect your mental capabilities.  May be removed by a remove curse at 2/3 normal chance (round up.)  PB is halved due to the amusing look of your little "doorknob."
+   478	Piglet: You find a piglet among your gear.
+   479	Plot: You will be aware of the next plot made against you and your friends.
+   480	Mate: The next person of your opposite sex that you encounter will insist on mating with you.
+   481	Glass: You are covered in a glasslike substance that tightens so much that you cannot breathe.  Make roll vs PS to shatter the glass or take 1d6 damage each melee until you are dead.  Others may also try to break the glass.  AR 12  SDC 30
+   482	Kitten: You find a kitten in one of your pockets, but the spell works normally.
+   483	Double: The spell has twice the effect, but also affects you with full strength.  (If you are the target, another random person is affected.)
+   484	Nexus: You are drained of all your spells, but this creates a ley-line nexus at the place you are standing, with ley-lines stretching out 500 miles north, east, south and west.  Duration: 1d8 years or permanent (?)
+   485	Race: Randomly roll a new race.  If it isn't the same as your current race, reroll all your stats.  Level and skills remain the same.  Remove curse or negate magic will work to restore you. (So save your stats, just in case ;)
+   486	Teleport: You, everybody and everything in a 100 ft radius will be teleported 1d100 miles in a random direction (1d4 N, E, S, W).  Each person and object gets a separate save.
+   487	Disease: For 1d4 weeks your body contracts a strange shape-shifting disease.  Roll 1d10 every morning.  1-3 you are male; 4-6 you are female; 7-9 you are both; 10 you are none.
+   488	Angel: You summon forth a beautiful Angel (Female Seraph if you are male; Male Ariel if you are female) which says 'I'm here to do everything you want me to do."  It stays with you for 1d4 days.
+   489	Succubus:  You summon forth a beautiful Succubus (Female Succubus if you are male; Male Incubus if you are female) which says 'I'm here to do everything you want me to do."  It stays with you for 1d4 days.
+   490	Sidewalk: From this day on, you will always walk on a track of solid cement.  The cement will remain even after you pass.  You won't have to worry about dense forests and such, but tracking you will be very, very easy.  Remove curse and negate magic will work.
+   491	Say goodbye: Roll 1d10 for each of your possessions.  On a 1 this item disappears. 
+   492	Mixed up: All your magic items and weapons change their special abilities, and you don't know which is which.  (For example, you have a ring of save vs magic +1, 1 pair of gloves with healing touch and a sword with 1d6 extra damage.  You now have a ring with 1d6 extra damage, a pair of gloves with +1 save vs magic and a sword with healing touch.  Or any other combination.)
+   493	Did I know that?: Your mind gets twisted.  You lose 1d6 skills but you gain 1d6 other skills.
+   494	Attribute: A random attribute of your character becomes a wandering effect.  You get +1 every day until it reaches 30, then it restarts with 1 until it ends with the number it started with.  A remove curse will work, but if performed when it's higher then in the beginning the attribute will drop 1 point under the starting number.  This can be used to restore lost luck, although you must have it restored on a day between what you had and your original maximum, otherwise you will lose a point from your lower score.
+   495	Size of the behemoth: You accidentally cast 'Size of the Behemoth' on yourself and everyone win a 100 ft radius.  Duration of the spell is only 1d4 melees, but all the clothes and armour you and the rest were wearing are now destroyed.
+   496	Fish: A rain of fish starts with you in the center.  1d6 fish fall from the sky per square yard/melee.  Each does only 1 point of damage.  The duration of the rain is 1 melee/level, but the fish stay until eaten or rotten.  The 'storm' has a radius of 2 miles.
+   497	Toke: Something smells peaceful here.  You summon a cloud of marijuana smoke, covering 100 ft radius.  Duration: 1 hour per level.  Victims will loose their thrill to fight and become very peacefully loving and dreaming.  Only a save vs poison will help, but it must be repeated every 10 minutes.
+   498	Music: A New Orleans Brass Band materialized from thin air plays a funeral march and dissipates into thin air again.  Every action stops during the music.  Everybody has to reroll initiative afterwards.
+   499	Elves: A bunch (1d6) of naked Elvin maidens run in your direction.  They disappear 1 yard in front of you.  If you are male you lose initiative while they are there.
+   500	Gold: The target of your spell will be turned to solid gold for 1d4 days.  No saving throw.
+   501	Scrolls: All scrolls anyone within a 30 foot radius of you possess (even when these scrolls are not in the radius) change their heading at random. 
+   502	Reduced: Height and mass is reduced by 1/2 lasts 2d6 months
+   503	Wow: Roll twice on this table, but any outcome will either be permanent or TEN times the indicated damage/strength/number.
+   504	Resurrection: You cast a successful resurrection on all dead within a 5-mile range.  Not only on the recently dead, but also all others who died in the last 500 years come back to life, their bodies mystically restored.
+   505	Needed: This was not quite what you thought should happen, but you conjure the one thing that you and your party needs most at this very moment, be it a piece of parchment with the layout of the dungeon you are trapped in or anything/anyone else.  Your DM will know what you need most, and will give it to you.  (DM note: The item disappears at the end of this session.)
+   506	Rabbit: A white rabbit passes by.  When it gets in front of you, it stops, takes a kind of amulet out of a pocket in its vest, looks at it and mumbles, "oh-oh, I'm too late for the tea-time."  After that, it will vanish down a hole.
+   507	Fame: Somehow, from now on you are the most notorious spell-caster in the whole universe.  Everybody everywhere will know your name and picture.  The reaction of the people, whenever you enter a community will either be respectful or hateful, depending on the view of magic they have in this community.
+   508	Eternity Time: Everything indestructible, everlasting, permanent (Magic items, rune weapons, eternal flames, etc.) in a 1-mile radius of you will crumble to dust, vanish, and fade out.  On the other hand, every object that is not indestructible will get this attribute and be considered magical from now on.
+   509	Magic: Somehow you forget one of your spells, but you get a replacement.  Determine randomly, which spell you lose.  You get one spell 3 levels higher, also random, and also unstable.
+   510	Skills: You forget 2 random skills.  But hey they are not lost for nothing.  You can distribute their percentage numbers on the rest of your skills.
+   511	Dwarves: 20 naked male dwarves surround you.  You have to make a Horror Factor of 18.  They disappear after 1d6 melees.
+   512	Health: If you have lost any SDC or hit-points, you are totally healed, if you have lost any limbs, they are restored, if you have any diseases, they are gone, if you are poisoned, you are healthy again. But if you were completely healthy, well, you’ll lose half your SDC and hit-points
+   513	Potions: 1000 healing potions appear 100 yards above your target and fall down on it.  They will make damage and heal it in the same moment, so nothing really happens, besides the mountain of shards your target is buried under
+   514	Weightless: For 1d4 melees you become completely weightless.  According to the universal laws of physics, if you make any movement, you will leave the ground and fly, but after the weightlessness wears off your body weight is increased by 100 pounds per level of your experience.  If you were flying, you now will fall back to the ground.  The increased weight lasts 4d4 melees.
+   515	Toad: You become a toad for 3d6 melees.  Only your body changes, not your clothes nor other possessions.
+   516	Cow: 50 feet above your intended target appears a cow.  When the cow falls the target and the cow both take 10d6 damage.
+   517	Cops: Two humans in strange dark-blue uniforms appear in front of you.  They say: "We are here to arrest you.  You have certain rights: You have the right to call an attorney; you have the right to say nothing.  If you say anything, this might and will be used against you in the court."  They walk towards you and in the very moment they touch you they disappear.  Who knows, maybe one day they'll be back to fulfill their attempt.
+   518	Eden: If you are male, a beautiful maiden of your race comes to you with an apple in her hand.  "Be my Adam, I'm your Eve."  She gives you the apple and disappears.  If you are female a nasty little snake bites you for 1 point of damage, but luckily no poison.
+   519	Polymorph: Your appearance is changed to that of a dwarf.  No stat change.  If you are already a dwarf, you now look like an elf.
+   520	Moose: Metamorphosis into a moose for 1d6 days
+   521	Company: 10 normal 1st level Wizards show up and cast the same spell you just tried on your intended target.  They disappear when this is done.
+   522	Potion: A potion lies in front of you on the ground. (Shrinking, Level 15)
+   523	Timewalk: You make a Timewalk.  1d6 Odd=to the future, Even=to the past.
+   524	Travel: You just won a voyage around the world.  An invisible hand grabs you, lifts you up into the air and moves you around the world at a moderate pace.  Mystically, you have no desire to eat or drink during this trip, but you get to see the whole world.
+   525	Gold: Your skin becomes golden.  No AR bonus.
+   526	Spice: The spell should work occasionally, so you are encouraged to use it again.  So the spell hits its intended target just as desired.  But roll again on this table to get some extra spice.
+   527	Sharing: You decide to share the wealth.  Roll again on this table, once for each member of your party (including you.)  Everyone gets the effect you rolled for him.
+   528	Evil Eye: Everyone you look at in the next 20 minutes must save vs Psionics or be hit by an Evil Eye (20 points of Damage each.)
+   529	Relocation: Your head is tired of being on your shoulders and decides to take a look at the world from a different angle.  It moves down between your legs.  Duration: 1d6 months.  (Remove curse at ½ chance will restore your head to its normal resting place.)
+   530	Bear: You somehow become a bear for 1d4 days.  But you can speak.
+   531	Earthquake: An earthquake comes to visit the area surrounding you (300-yard radius, 6+ on the Richter scale.)  Buildings shake and will crumble.  I hope you are not indoors.
+   532	Polymorph: You are now a beautiful (PB 29) female elf with long blond (IQ 5) hair (if you were male.)  If you were female, you are now a brute (PS 29, alignment: miscreant) male ogre also with IQ 5.  And I offer you 1000 extra XP for playing in character.  Duration 1d4 weeks.
+   533	Let's speed up a little: Your SPD is raised to 55 due to the horse-body you grew.  You are now a centaur.  Duration: permanent, Remove curse or negate magic will help.
+   534	Stability: All your spells are now stable.  But for how long?  (DM, this is up to you to decide, I suggest 1d4 weeks maximum.)
+   535	Illusion: " All creatures hostile to the caster in a 60’ radius are Glamoured to see each other as the caster.
+   536	Curse: Roll to save vs curse: Cravings: Moose Dung.
+   537	Help: "Pleased to meet you.  Allow me to introduce myself..." You find yourself in a large damp dining hall at one end of a large oak-table facing a handsome dark-eyed young man.  He looks at you and has a sip of his wine, smiles and says: "I have a proposal to make, but first we eat hmmmm?"  The dinner you're served is the best you've had in your entire life, the man makes small talk during the meal.  After you're finished he personally serves you a glass of vintage wine and asks you to do a favour for him.  "It is of course voluntary, since I wouldn't dream of forcing you to do anything against your will."  He will not tell you the nature of the favour until you agree.  If you refuse he will simply send you back....
+   538	Vorpal Magic: A vorpal guillotine blade flies from the caster’s hands and strikes the target with a +5.  If a critical is obtained, the creature is decapitated and the head falls into a magically appearing basket. The creature gets its normal Dodge/Parry.
+   539	Traffic: Out of nowhere comes a carriage, which is unable to stop when the driver sees you.  You are trampled, taking appropriate damage.  If you are indoors see 862
+   540	Sanity: You are cured of any insanities you may have, if you have none, roll up an obsession.
+   541	Stats: All of the caster’s stats are randomly redistributed, except their prime requisites.
+   542	Extra planar Creature: A random extra planar creature is gated in and will act appropriately.
+   543	Hit Point: The next living creature the caster touches gains 1d10 HP and the caster loses the same amount permanently.  This can raise the creature's HP above the maximum.
+   544	Immortality: Target becomes immortal.  When he dies he loses 5 points of PE and rises from the dead at the next midnight.  This continues until his PE becomes 0, at which time he becomes a Revenant, which will hunt down the caster.  Remove Curse at 1/3 normal will cure the target, however the PE loss is permanent.
+   545	Hit Points: Target's hit points are raised (and healed) to their racial maximum.  (Racial PE maximum plus 8 points/character level)
+   546	Imprisoned: The caster is imprisoned on another plane (DM choice.)  The captors may or may not be intelligent enough to care properly for their new inmate.
+   547	Wings: The caster grows wings (50% feathered, 50% skin) and can fly at SPD 50.
+   548	Pivot The caster pivots 360 degrees, creating a vortex.  All creatures (except the caster) in the caster's original line of sight are drawn in, emerging on the ethereal plane.
+   549	Rhyme: Caster is forced to speak in rhyme for 1d12 rounds.  Cannot cast spells.
+   550	Magic Item: Caster gains a random harmful (for him) miscellaneous magic time, which takes effect immediately.
+   551	Reset: The target is returned to the condition he was in before the start of the current situation.  (All ISP, HP, Spells, etc are restored; any items destroyed or used are replaced.)
+   552	Wand: A randomly chosen wand within 50 feet of the caster (unless there is a wand of elemental anything nearby, in which case it is affected) explodes; all within 10’ of it take appropriate damage.
+   553	Cure: Target is cured of 5d10 hit points (up to normal maximum).
+   554	Glow: The caster is surrounded by a continual, soft glow of bluish white light; makes sneaking in the dark impossible and is frightening to children and superstitious individuals.
+   555	Hair Growth: The person closest to caster grows hair on their eyeballs. This is very painful and will cause blindness. A successful remove curse spell will remove the hair but not the damage.
+   556	Unstable: All spells cast by the caster in the next 24 hours will become unstable, permanently.
+   557	Banshee: A Banshee appears by the caster and Wails.
+   558	Toes: The caster’s toes enlarge to 3x their normal size, ruining footwear and inflicting 1d10 points of damage and reduce the caster’s SPD to 50% of normal. If the caster is wearing metal footwear (or something else which wouldn’t normally be destroyed) 1d10 toes are broken. Toes return to normal size after 1d8 turns.
+   559	Insects: Caster is attacked by 2d100 small annoying insects (50% chance they’re the biting kind).
+   560	Meteorite: A meteorite streaks out of the sky and hits caster for 5d10+50 hit points. (If underground, waits until exposed to sky.)
+   561	Vanish: All of caster’s scrolls vanish.
+   562	Penalty: For the next 3d4 rounds, all of caster’s rolls are at –5.
+   563	Painting: The caster turns into a painting of herself, until Dispelled (any Dispel will do). Any changes painted on the canvas will become part of the caster if and when she is returned to her normal form.
+   564	Angel/Devil: A devil/angel duo appears on the caster’s shoulder, and advises them appropriately as to what to do for the next 1d10 hours.
+   565	Curse: All of caster’s weapons turn to Cursed Friend slaying weapons, which take effect the next time they are used and then return to normal.
+   566	Allergy: Caster develops an allergy to one of her magic items. This item causes sneezing and coughing for 1d6 hours every time it is used.
+   567	Resistance: Target gains a 1d100 % resistance to magic for 1d6 turns.
+   568	Drain: Target is able to drain Life Essence (1d8 points) at a touch for 1d4 rounds.
+   569	Polymorph: Caster changes into a 4-foot diameter jellyfish unless a save vs. magic is made at –2.  If on land, the caster takes 4d10 points of damage each round unless continually doused by water.
+   570	Reverse: Reverse Spell protects Target for the next turn.
+   571	Familiar Break: The caster’s familiar turns against him. The animal is no longer treated as a familiar (appropriate penalties for familiar loss) and will act as a normal creature of that type will. This may include attacking the caster (usually just running away). If caster doesn’t have a familiar, he does now (GM choice. Be creative).
+   572	Lava: The ground between the target and the caster turns to molten lava. All creatures touching the 5’ by 10’ strip of lava will take damage as per River of Lava at the caster's full level, every round they are in contact with it. 
+   573	Teeth: Caster loses all teeth. A regeneration spell/herb or suitable replacement will be needed.
+   574	Regeneration: The target gains Regeneration at the rate of 1 HP/round.
+   575	Lava: Molten lava comes out of the ground near caster, who takes 5d10 points of damage.  Roll d100 for duration: 01-50, 1d4+4 rounds; 51-70, 1d4 hours; 71-85, 1d100 days, 86-100, becomes a real, non-magical volcano.
+   576	Wish: DM shouts “Wish!” and counts down from 10.  If the caster makes a wish within the count it is granted.  Be creative, be cruel.
+   577	Forget: Caster permanently forgets one spell chosen randomly. It may be re-learned at the next level.
+   578	Undead: All creatures slain by the caster in the last 24 hours rise up as Revenants and attempt to destroy him/her. All undead have their original abilities and skills.
+   579	Gate: Caster opens a gate to another location (DM choice or random) and is pulled through.
+   580	Levitate: Caster Levitates uncontrollably, always heading upward until the spell duration (at the caster's level) is reached, then they fall.
+   581	Pain: Caster is in great pain for 1d3 rounds.
+   582	Acid: Caustic slime spews out of caster’s nose. Caster takes 1d10 points of damage and cannot smell for one month.
+   583	Magnet: Caster becomes a very strong magnet for 1d4 rounds.  All metal in the area will fall toward the caster.  Metal weapons will attack the caster at +2; those wearing metal armour will fall on the caster, who will take appropriate damage.
+   584	Heal: a Greater Heal, healing all but 1d4 points of damage, affects Caster.
+   585	Strength: Target's PS increases to 30 (Wears off in 1d4 days.)
+   586	Rocket Assist: Caster emits a powerful fart which does 1d10 damage to the caster, propels her 10 feet forward, and remains where the caster was and acts like a Stun Cloud for 1d4 rounds. Any non-magical trousers are ruined completely.
+   587	Null: Area within 100’ of caster becomes a null magic zone. Magical/animated creatures become inert and items and spells will not work in this area.
+   588	Target, Self: One charge from a randomly chosen Wand, Rod, Staff, or other Charged item affects the caster if she fails her save.
+   589	Reroll: Caster and target must re-roll their highest statistic that is not a Prime Requisite.
+   590	Doppelganger: Nearest creature friendly to the caster is replaced by a doppelganger. The original creature is imprisoned in the doppelganger’s lair (wherever that may be).
+   591	Fireball: Fireball, centered on the caster effective at caster’s level.
+   592	Duplicate: All creatures in a 60’ Radius hostile to the caster are duplicated, including possessions, etc.
+   593	Ya missed me: Target can only be hit by a +5 weapon or greater for the next 1d10+10 rounds.
+   594	Heal: Hostile creatures within 60’ of caster have their hit points restored to maximum.
+   595	Drunk: Caster becomes extremely drunk.
+   596	Body Building: Target permanently gains Bodybuilding at level 1.
+   597	Deafness: The caster becomes Deaf.  Remove Curse will cure this condition.
+   598	T.V.: A 30-inch Colour TV appears from another time and dimension appears in front of the caster. All who view it must make a ME check or be totally unable to do anything except watch the screen.
+   599	Gallows: A gallows appears. Caster must make a PP roll to avoid being hung. The rope can be cut down before the caster is killed in one round.
+   600	Paralyze: Target is affected by Paralyze (as the spell). Duration is based on the caster’s level.
+   601	Raise: All of caster’s statistics are raised to 30 for 1 hour.
+   602	Backfire: The intended spell backfires on the caster for good or ill.
+   603	Skeletons: 1d10 skeletons under the target’s control rise up out of the ground and attack the caster (this may anger the caster’s deity!).
+   604	Ick: The caster is buried to the chest in offal that oozes from a gate that spontaneously appears.
+   605	Where am I?: The caster and all of her party are transported to another site of conflict.
+   606	Buried Alive: The ground opens up and swallows the caster to the neck.
+   607	Confusion: Caster is affected by Confusion, as the spell.
+   608	Coals: Caster is surrounded by hot coals. All those attempting to walk on the coals must make a PE check to stay on them.
+   609	Repulsive: Caster becomes magnetically repulsive for d20 rounds. Metallic objects cannot be brought closer than 5 feet; any ferrous items on the caster are repelled and go flying.
+   610	Nah, Nah, can't hit me: Target becomes invulnerable to edged weapons for 1 hour.
+   611	Hold: Caster is affected by a Hold Person spell.
+   612	Bulls eye: A large bulls eye target appears on caster, giving anyone aiming at her with any kind of ranged attack a +10 to hit.  This lasts for 1 hour.
+   613	Boing: A loud Gong sounds.
+   614	It did too work: The spell fails but the caster believes it affected the target to the maximum possible effect (if the max possible is death, the caster must choose a new target.)
+   615	Dragon: A juvenile dragon of a random type flies onto the scene and acts appropriately.
+   616	Delay: Re-roll, but the effect doesn’t happen right now. Instead, one of caster’s fingernails falls off. The re-roll takes affect when the nail is discarded or destroyed and always affects caster, even if the surge says ‘target.’
+   617	Come back here: All of caster’s weapons jump off her to a spot 10 feet away.
+   618	Two heads are better than one: Or are they?  Caster grows an argumentative, annoying second head on her shoulder.
+   619	Invisible: Target turns Invisible as per the spell, but can be hit once before turning visible again.
+   620	Stun: Stun Cloud centered on caster.
+   621	Hand: The caster is picked up by an invisible hand and shaken like a rag doll for 1d6 rounds. Spellcasting under such conditions is impossible unless casting an instantaneous spell.
+   622	Technicolour Hailstorm: Technicolour hailstorm. 1d4 icy stones of various colours, doing 1d6 HP of damage each, hit all those within 50’ of caster.  The storm lasts for 1d4 rounds.
+   623	Puddle: The caster is turned into a puddle of water for d8 rounds. Evaporation or splashing will do 1d20 hp dam. The caster returns to normal form at the end of the duration.
+   624	Pucker: Caster’s mouth is puckered for d10+10 rounds. No speech, spell casting, breath weapons, or other uses of the mouth are possible.
+   625	Flattened: Target is flattened for 10 melees.  A companion may re-inflate the target before the end of the duration by blowing into their thumb.
+   626	Forget: Target Forgets the last 24 hours.
+   627	Fire: The caster’s pack/robes whatever ignites for 1d4 rounds. Caster takes fire damage every round unless she removes the source of the flame or renders herself immune to natural flame/heat.
+   628	Hypnotize: Caster is yanked into the air 10 feet and spins around rapidly, transfixing all those who see it as per Hypnotize.  Caster will continue to spin until she fails a PE roll, at which time she falls, taking 1d6 points of damage.
+   629	Illusion: Illusion of a Fireball centered on caster. All who see this feel the heat of the Fireball but the caster is unharmed.
+   630	Water, Water, everywhere: All gold in the caster’s possession turns to water.
+   631	Mirror: A large mirror appears in front of the target. If the target tries to get around it his mirror image emerges from the mirror and engages him in combat.
+   632	Charm: The caster is affected as per a Charm spell where she thinks the target is her best friend.
+   633	Tar and Feather: Caster is covered with tar and feathers. 50% chance target will stop what he’s doing and taunt and laugh hysterically at the caster.
+   634	Mute: Caster is Mute for the next 1d4 hours.
+   635	Baby: Caster turned into an infant of the same race. She reverts to her original age after 1d10 rounds.
+   636	Encounter: There is an immediate random encounter with a monster hostile to the caster.
+   637	Sleep: Caster and her party affected by a Cloud of Slumber spell.
+   638	Intelligence: Target gains power of speech in the caster’s native language (98%) and High Intelligence (racial maximum.) This also applies to inanimate objects (IQ on an inanimate object is same as caster's.)
+   639	Prisoner: Caster is bound in High Steel straps. These will take a skilled locksmith to remove.
+   640	Teleport: Caster is teleported to the top of the highest tree in sight and must make a PP check to avoid falling.
+   641	Stasis: Area in 100 feet of caster is held in stasis 1d10 days; caster is unaffected.
+   642	Two for the price of one: Wild surge triggers the casting of another randomly chosen spell.  Uses up it's own 'spell/day'
+   643	Hold Person: Caster jerks uncontrollably for 1d4 rounds, then a hypnotic pattern appears, affecting all who see it as a Hold Person spell.
+   644	Stutter: Caster gains a stutter. Remove curse will cure it.  75% chance that spells cast while stuttering will misfire, resulting in needing to roll on this chart again.
+   645	Forget: Caster Forgets all her spells for 1d6 rounds. Items still function.
+   646	Brothel: Caster is teleported to nearest goblinoid brothel.
+   647	Teleport: Caster is teleported home. Normal teleport error rules apply.
+   648	Blind: One member of the caster’s party is Blinded for 1d8 rounds.
+   649	Gas: Incapacitating green gas comes out of the caster’s ears and floats in the target’s general direction. All those between caster and target must make a save vs spell at caster’s level vs. Poison or fall unconscious.
+   650	Null Magic: All magical weapons within 30’ of caster lose their magical powers for 2 rounds only.
+   651	Balls: Small rubber balls (1 inch diameter) rain down in a 20’ radius around caster for d4 rounds. Everyone in the area must make a PP check to move or fall down. The balls remain in the area, causing a check every round of movement until cleared.
+   652	True Sight: Target affected by True Sight for 10 rounds.
+   653	Rust: Caster’s ferrous items must make a save vs. spell or rust completely away in one round.
+   654	Chain: Caster chained to ground; tensile strength of chains is 3000 lbs.
+   655	Confetti: Caster sprayed by 2d20 pieces of confetti, edge on. They do 1 HP of damage each and caster has annoying paper cuts that will itch maddeningly as they heal.
+   656	Shatter: All non-magical glass or crystal within 30 feet of caster shatters.
+   657	Gaseous: Target’s form turns gaseous for 1d4 rounds. A good gust of wind will disperse the cloud and kill the target.
+   658	Timber: Trees around caster fall down (if none, some grow first). Caster must make a PP check or be pinned beneath them.
+   659	Orbital Stones: 1d10 small stones shoot from the caster’s fingertips and orbit the target’s head. They are under the target’s control, as to speed and direction.  They orbit for 1d10 turns.
+   660	Ethereal: A random person within 100 feet is made ethereal. Unless they are familiar with the ethereal plane they may not realize what has happened and will not be able to return unless shown the way.
+   661	Multiplication: Next missile weapon used by target multiplies by 6; one arrow becomes 6, each with its own attack.
+   662	Overcast: The intended spell functions but consumes 1d6 of the caster's spells for the day. If this exceeds the caster’s available spells, they cannot cast spells for the next 1d3 days.
+   663	Geyser: A geyser erupts midway between caster and target. Anyone within 10 feet of it takes a 4d6 damage from the boiling steam.
+   664	Snake: A random snake is teleported in to within 10 feet of caster and is under the targets control.
+   665	Timeshift: Everyone within 50 feet of caster is thrown 5 months back in time.
+   666	Deevils: You accidentally summon a lesser deevil, that isn’t very happy ‘bout being dragged from his own dimension.
+   667	Polymorph: Caster polymorphs into something rhyming with her name (GM choice.)
+   668	Surrender: A booming voice audible over the din of battle says “SURRENDER!” This acts as a Command Word and all who hear it must make a save at the caster’s level or surrender to anyone who makes their save.
+   669	Hide and Seek: All the caster’s magic items are teleported to random locations within 100 feet. Items that don’t wish to be separated from the caster get a save.
+   670	Fear: Word of Fear on the caster. No save.
+   671	Staples: Caster hit by 1d6+4 giant staples, which do puncture damage for 1d3 each and staple the caster to the nearest surface.  This may be the ground.
+   672	Zombie: Nearest dead body within 60 yards of the caster becomes a Zombie and attacks the caster.
+   673	Spoil: All food within 50 feet spoils completely.
+   674	Random: A random spell of the same level as the intended spell affects caster if she fails a save.
+   675	Net: A net falls on the caster and they becomes so entangled they will have to be cut out.
+   676	Singing: The target gains 15th level singing ability and can’t wait to try it out. Ever hear a troll sing?
+   677	Slime: The caster is covered in an inert green slime that drips incessantly into her eyes. This goes on for 1d6 rounds during which time caster is at a –5 to Strike, parry, and dodge.
+   678	Steel: Target’s skin turns to steel, giving him AR 18 for the next 1d6 rounds.
+   679	Dizzy: Caster spins rapidly for 1d4 rounds and is stunned for 1d6 rounds afterward.
+   680	Jailed: Jail cell bars of the appropriate size surround the caster and her party (and anyone else in between).
+   681	Wraith: Target must make a save vs. magic or become a Wraith.
+   682	Effect: Caster’s next spell cast at 1st level in effect.
+   683	Mummy: Target must make a save vs. magic at -2 or turn into a Lesser Mummy.
+   684	Petrification: Caster must save vs magic or be affected by Petrification for 10 hours.
+   685	Goat: The caster’s mount is polymorphed into a goat if it fails a save vs. magic. If the caster has no mount, it affects the nearest one.
+   686	Kansas: An enormous tornado picks up caster and her associates and takes them to Kansas (or some other boring, flat, corn filled spot on the same plane.)
+   687	Teleport: The caster is teleported to the highest mountaintop in sight.  If there is no mountain visible the highest location within sight will do.
+   688	Ethereal: Target Phases into and out of the ethereal plane for the next 1d10+10 rounds.
+   689	Spider: A poisonous spider (DM choice) appears near the caster and attacks.
+   690	Collapse: Target collapses and appears to be dead. He is not, however, but you have no desire to discover this. He’ll wake up and be fine in 1d6 minutes.
+   691	Hair Growth: Target’s hair thickens and grows 4 yards long in 4 rounds. Target must part the hair to see. The hair is impossible to damage for d3 hours.
+   692	Wiggle: All magic items within 60 feet of caster wiggle when touched for the next 1d6 days.
+   693	Knees: A randomly chosen person near the caster has their knees reversed to bend the other way. This is permanent, and incurs a –3 to their PP. Armour will require modification. On the plus side, their base SPD is now doubled.
+   694	Taxes: The next time caster and her associates return home, they will be visited by a stern old tax collector who will demand 10% of all they own as taxes, and has the authority to enforce the collection. He will return every month demanding another 10% until dispelled.
+   695	Fae: Caster summons a Leprechaun (or other suitable Fae).
+   696	Enlarge: All non-magical clothing, weapons, armour, and similar equipment must make a save vs. magic or Enlarge to twice their normal size for 4d10 rounds.
+   697	Web: Caster shoots a web at the target, becoming entangled.  The caster is one (possibly the only) anchor point.
+   698	Hunger: Caster’s stomach is emptied; she becomes ravenously hungry and must stop to eat.
+   699	Sweat: Caster sweats buckets for a month, and must drink at least 3 liters of water per day or lose one point of Temporary PE for each day the water requirement is not met.
+   700	Imp: An Imp appears, insults the caster, and disappears.
+   701	Polymorph: Caster polymorphs into a mammal appropriate for the area, or a random type if no mammals are around; 40% chance for a monster type.
+   702	Avatar: Caster becomes hysterically religious for one month, believing herself to be an Avatar of some previously unknown god(dess) and will try to convert followers.
+   703	Exchange: Caster and target exchange bodies. If the target is completely non-sentient the caster’s body will fall into a coma.
+   704	Teleport: Caster and friends are teleported without error to the next place named.
+   705	Lead: All gold on target turns to lead.
+   706	Animate: The caster’s footwear animates and grows teeth for 3d4 rounds. These teeth will attack everything within range, causing the caster to kick the nearest person. Treat as combat.
+   707	Silence: No one (except the caster) can hear the caster for 1d6 rounds. Caster can still hear normally.
+   708	Colour: Caster glows a primary colour for 2d12 days. This glow has the effective light of a normal torch.
+   709	Dirty: Caster becomes immensely dirty- so much so that a dust cloud forms around her. Only natural bathing will remove the dirt. Interactions with others will suffer a penalty (unless they enjoy that kind of thing).
+   710	Oops: Caster falls flat on her face and must stand up again.
+   711	Green: Caster’s hair turns florescent green (some other obnoxious colour if already green). This is permanent until new hair grows in.
+   712	Teleport: Target it teleported directly behind caster.
+   713	Wall of Force: Target and caster (only) are sealed behind an impenetrable force wall that only falls after one of them is dead.
+   714	Blue: Target glows bright blue, permanently.
+   715	Armour: The target is covered with plate armour (AR 18). Any other armour worn falls off.  This lasts for 1d4 rounds then the armour disappears (but the original armour does not reappear on the target’s body!) 
+   716	Bubble: Caster is surrounded by a giant pliable (but impenetrable) bubble for 24 hours. (Giant hamster ball, anyone?)
+   717	Flowers: The shield closest to the caster is turned into a flower basket.
+   718	Argument: Caster and target become locked in a heated debate over the nature and use of Arcane Magic and will do nothing else for 1d6 rounds. If the two do not have a language in common, an imp appears to act as translator.  Inanimate objects animate for the duration.
+   719	Flame: Circle of Flame, as per the spell, surrounds caster and moves with her, duration based on caster’s level.
+   720	Snake: Caster thinks her favorite weapon/wand/other long skinny object has turned into a poisonous snake. This lasts for 1d6 rounds.
+   721	Level: Caster gains a level at the expense of a nearby being. The caster gains skills appropriate to the being drained.  If this reduces the being’s level to zero, the being dies and is resurrected as a revenant who hunts down the caster. The being can be anything, including small mammals, insects, etc.
+   722	Go Away: The next time the PC’s enter a town the inhabitants will try to chase them away.
+   723	Copper: Each gold piece in the caster’s possession turns into the equivalent value in copper pieces.
+   724	Dung Dinner: The next 10 meals the caster eats will taste like cow dung.
+   725	Uncontrolled: Spell functions, but cannot be controlled by caster (DM determines effects).
+   726	Skunk: A skunk is conjured before the caster, who is promptly sprayed.
+   727	Air Elemental: A Lesser Air Elemental is summoned and promptly attacks the target.
+   728	Ice: The ground beneath the caster becomes slippery as if icy.
+   729	Polymorph: Caster polymorphs into a reptile/amphibian appropriate to the area, or a random type if no reptiles or amphibians are in the area. 40% chance for a monster type.
+   730	Bird song: A nearby bird starts singing the Star Spangled Banner in a rich baritone voice, and will follow the caster, singing at 100 decibels, for 1 month.
+   731	Rash: Caster develops an irritating rash for 1d4 rounds and has to scratch incessantly.
+   732	Polymorph: Caster polymorphs into a bird appropriate to the area, or a random type if no birds are in the area. 40% chance for a monster type.
+   733	Jello: Caster encased in a block of lime Jello 10 feet on a side. Caster must make a PP check every round to escape. Keep rolling until she gets out or passes out from lack of oxygen.
+   734	Vision: Target gains infravision (or some other unusual vision if he already has infravision) but loses all normal vision.  This lasts for 1 day.
+   735	Diamond: Target’s skin turns hard as a diamond and will be immune to slash and puncture attacks. This does not affect his AR or HP, but only lasts 2 turns.
+   736	Tongue: Caster’s tongue grows long enough to touch the tip of her nose. If her tongue is already that long, the surge affects some other part of her body.
+   737	Hold Person: Spell Hold Person affects all creatures in a 50’ radius around caster.
+   738	Level: Caster’s next spell is cast at 1d4 levels lower in effectiveness.
+   739	Left: Caster’s feet are changed to two left feet for one day. Caster’s SPD is halved and fitted footwear becomes uncomfortable.
+   740	Rain of Gold: 2D100 pieces of gold rain down in a 30’ radius of caster. Anyone caught in the radius takes 1d20 points of damage from the falling coins until they are outside the radius.  Coins vanish after 1d10 turns.
+   741	Shrink: Caster Shrinks, as per the spell, but to 1/12th her original size, permanently.
+   742	Hair Loss: Target loses all hair/fur/feathers/scales etc. Reaction is determined by target’s race/outlook. Other effects determined by DM (flying will be tough without feathers). Whatever is lost grows back naturally.
+   743	Functional: The intended spell functions, but consumes one charge from a random nearby charged magic item instead of caster's spell
+   744	Darkness: Darkness 30-foot radius, centered on caster. This is permanent unless dispelled at the level of the intended spell and moves with caster.
+   745	Invisibility: Caster’s clothing and equipment turn invisible. Very embarrassing.
+   746	Inversion: Enchantments and bonuses on all weapons and armours/shields within a 50’ radius of caster have their bonuses inverted for 2d10 rounds (i.e. a +10 weapon becomes a –10 weapon)
+   747	Bondage: Caster is tied down with magically appearing rope.
+   748	Invisible: Some random body part of the caster becomes invisible. This is permanent unless dispelled at the level of the caster.
+   749	Transparent: All of casters flesh except her blood vessels and bones become transparent for 1d4 turns. Ick.
+   750	Taffy: Caster is coated in a thick layer of taffy. Damage to caster is at -2, but the taffy will solidify in one turn.  Caster will be immobile unless the taffy is removed.
+   751	Exchange: Caster and target exchange places, clothing, possessions, etc.
+   752	Hot: The area around the caster becomes uncomfortably hot.
+   753	Gripes: A randomly chosen possession of the caster’s begins to gripe about the caster’s treatment of it, lousy working conditions, low pay, long working hours, etc.
+   754	It’s Just a Game: Caster has a vision of the players around a table, rolling dice, playing a game. This lasts for one round.  They are affected by a sense of ennui for the rest of the day.
+   755	Syrup: A barrel of syrup appears in the air above the caster’s party and empties itself on the first person to notice it.  (Person who made their PER by the most amount.)
+   756	Roses: Target smells of roses for one month. If killed, his body will not decompose and will resurrect as though given a Resurrection spell.
+   757	Endurance: Caster and target must re-roll their PE Statistic.
+   758	Vacuum: Vacuum 10’ centered on caster.
+   759	Polymorph: Caster polymorphs into a fish appropriate to the area, or a random type if no fish are in the area. 40% chance for a monster type.  If caster is not near water they will suffocate in 3 minutes.
+   760	MMM Chocolate: Caster is covered in liquid chocolate.  A random passerby offers to lick it off.
+   761	Teleport: One of caster’s items teleports into the target’s hand. Target drops anything previously held in the hand. If target has no hands or is not a creature, the item just lies there.
+   762	Fall: All moving creatures within 60 feet of caster must make a PP roll or trip and fall.
+   763	Relic: Caster’s entire party teleported to the nearest artifact/relic (does not guarantee it is usable, and it is likely to be in the possession of someone else.)
+   764	Polymorph: Caster polymorphs into a plant appropriate to the area, or a random type if no plants are in the area. 40% chance for a monster type (Huorn, Deathwoode, etc.)
+   765	Water: Caster finds her lungs filled with water; she must make a PE check or die.  If it is made she can do nothing but cough and sputter for 1d4 rounds.
+   766	It’s Magic: Every spell the caster has learned goes off, one per round, until caster is exhausted. Caster may name the target with a successful ME roll.
+   767	Teleport: All creatures within 120 feet of the caster teleport to random other positions within 120 feet of the caster.
+   768	Green: Caster’s associates all turn green whenever they come within 5 feet of her for the next 2d10 turns.
+   769	Whistle: Target begins whistling “Whistle While You Work.” Lasts for 1d4 rounds.
+   770	Exchange: All spells are exchanged between the minds of the caster and the target if they are both spell casters. If not, the caster Forgets all her spells for the next 24 hours.
+   771	Delusion: Caster thinks the spell has functioned as intended when it actually hasn’t. This delusion lasts for 1 round.
+   772	Fire: The caster’s hair spontaneously combusts into blue flame and continues to burn for 6d10 turns. The hair is not consumed, and no damage is taken. The flame is actually an Illusion and can be detected as such.
+   773	Clean: Target is cleaned. All dirt and bad smells are removed. This can actually cause damage to creatures composed of earth, DM discretion.
+   774	Chickens: 2d6 chickens appear at the caster’s feet and run away at top speed.
+   775	Sentient: The caster’s clothing becomes sentient for 2 weeks, refusing to leave the caster’s warm, comfortable body and complaining loudly if treated roughly or exposed to uncomfortable elements.
+   776	Suds: Suds flow from the ground in a 60-foot radius around the caster for 1d6 rounds at the rate of 3 cubic feet per round.  Suds are from either soap (25%) or beer (75%).
+   777	Snowballs: Caster hit by a flurry of non-magical snowballs. No damage unless she is fire or heat based.
+   778	Plant: Random plant appears and takes root at caster’s feet.
+   779	Mushroom: A yellow mushroom grows out of the caster’s right ear over the course of two rounds. It is edible but tastes like wax. Caster must make a ME roll or be distracted during the process.
+   780	Glow: Tip of caster’s nose glows red for a second. No other effect.
+   781	Watermelon: A watermelon appears in the caster’s hands.
+   782	Sing: All weapons within 60 feet of caster sing one shrill note for one round.
+   783	Change: Casters’ clothing is transformed into a soft, skin-tight, glossy black leather outfit studded with silver.
+   784	Biker: Caster’s clothing changes to the outfit of a full patch Hell’s Angel biker.
+   785	Delay: The intended spell appears to fail when cast, but will go off the next time caster uses a spell in addition to the spell they are attempting to cast.
+   786	Mushrooms: A field of mushrooms sprouts around caster. They are edible and will either heal 3d10 HP (50%) or cause 3d10 HP dam (50%).
+   787	Cloud Shift: All visible areas of cloudy skies clears, and clear skies cloud over.
+   788	Item: One randomly chosen magic item has its enchantment changed.
+   789	Eclipse: A solar eclipse occurs (or lunar if nighttime). This lasts the rest of the night/day.
+   790	Zap: A loud ZAP is heard. No other effect.
+   791	Fog: Fog, as per the spell, 60’ radius centered halfway between caster and target.
+   792	Forest: A forest grows up around caster in 3d4 rounds, 1-mile radius per level of the intended spell.
+   793	Music: Sweet music fills the air, produced by a nearby flower (if there aren’t any one grows first). The flower will never die, even if picked, continuing to sing forever and the tune never repeats.
+   794	Functional: The intended spell functions, but with spectacular special effects.  (Light flashes, music, etc.)
+   795	Boulder: A 10-foot diameter boulder rises from the ground directly under the caster. Footing is precarious.
+   796	Animation: Everybody’s last meal animates and seeks the easiest way out, which will be down if more than 3 hours have passed. No damage is incurred, but combat ceases for 2 rounds and the result may be embarrassing.
+   797	Friends: Everybody within 50 feet of caster and Target starts singing bawdy drinking songs for 1d10 rounds. Everyone affected must make a save vs. magic or become friends. Those who make their save may Ambush those who don’t.
+   798	Change: A randomly chosen charged item has its spell changed. The appearance, command word, and number of charges do not change. Just the spell. Owner won’t know this until the item is used again.
+   799	Disco: An enormous glitter covered ball appears in mid-air between caster and target. The words and music to “Staying Alive” play loudly, and caster and target disco dance for the next 2 rounds.
+   800	Kiss: All blunt weapons within the caster’s sight emit loud kissing noises whenever they hit anything for the next turn.
+   801	LOL: Nothing happens. The GM should roll many dice and chuckle a bit.
+   802	Shrink: The fingers of a nearby randomly chosen creature shrink to 1/12th their normal size for 1 hour.
+   803	Summon: Caster summons 1=buzzard, 2=giraffe, 3=kitten.
+   804	Hit Points: Caster and target exchange current HP total.
+   805	Power Word: The next time caster says the word “Blind,” “Kill,” or “Stun,” it acts as though a Power Word has been spoken with. Let the caster name the target.
+   806	Flowers: Five foot long pink flower petals with green polka dots rain from the sky in an area 50’ around the caster.  Everything in the area is buried and combat stops for 2d6 rounds while everyone fights their way to the surface.
+   807	Transparent: All soil and ground covering a 100’ radius around caster becomes invisible for 1d6 days, so that it will seem everyone is standing on air. Buried objects will be visible.
+   808	Grass: All grass in a 160 square foot area around caster grows uncontrollably. If there was no grass previously, a well-manicured lawn sprouts.
+   809	Money: All copper pieces within 30 feet of caster are changed into gold pieces, and vice versa.
+   810	Rainbow: A rainbow (as per the spell) appears for one-hour overhead.
+   811	Butterflies: The area fills with countless butterflies, blinding everyone for 2 rounds.
+   812	Lake: A deep lake forms in a 100’ radius of caster. Everyone in that area gets a quick swimming lesson.
+   813	Summon: Caster summons 1=a large dove, 2=a large rabbit, or 3=large iguana.
+   814	Log Cabin: An empty log cabin pops up next to the caster.
+   815	Rabbit: Rabbit comes out of the nearest helm/hat. It runs for its life, but not before soiling the head of the wearer.
+   816	Desert: A desert oasis grows around the target.
+   817	Critical: One randomly chosen creature within 50’ of caster will automatically score a critical for the next 2d4 rounds.
+   818	Invulnerable: Everyone within 200 feet of the caster becomes completely invulnerable for 2d6 rounds.
+   819	Plant: A plant within 10 feet of caster swells alarmingly and then explodes in a cloud of pollen, obscuring everything in a 20-foot radius as per a Fog spell.
+   820	Chill: Everyone in caster’s view feels cold for 5 rounds. No other effect.
+   821	Fog: Fog, as per the spell, but only between the caster and the target, and moves with them.
+   822	Summon: Caster summons 1=a rhino, 2=an elephant, or 3=a large mouse.
+   823	Rock: All rock within a 20’ radius of target turns to a random metal (whatever ore is most prevalent).
+   824	Oak: A Large oak tree with mistletoe springs up in a place where no one will be injured.
+   825	Desire: Caster names anything desired (not more than 10th level in effect), and GM rolls a 50/50 chance it will happen to target or caster.
+   826	Cat’s Eyes: Caster’s eyes become vertically slit like a cat’s. The caster gains Nightvision, if the caster already has night vision, it is extended by 10 feet.  If the caster has slit eyes already, this surge removes them.
+   827	Summon: Caster summons an ugly painting (25%), a bellows (25%), or a giant’s boot (50%).
+   828	Fireworks: Burst of fireworks (harmless but neat).
+   829	Pinocchio: Target’s nose grows to 10 times its normal size for d6 rounds.
+   830	Sock: A giant sock appears in the target’s mouth.
+   831	Ring: A ring of mushrooms appears around target (no other effect).
+   832	Hat: A black felt hat (value 15 sp) appears on caster’s head.
+   833	Tomatoes: 1d4 rotten tomatoes hit target (effect at DM discretion).
+   834	Eggs: 1d6 raw eggs hit target from above (effect at DM discretion).
+   835	Pastry: Cream puffs fly from caster’s hands toward target.
+   836	Cartoon: Target is turned into a cartoon rendition of himself and will not be able to take any action without making a short (less than 1 round, no more than 60% action) speech telling everyone exactly what he’s going to do.
+   837	Career: Caster learns the profession of the target.
+   838	Shadow: Caster’s shadow vanishes for d4 days.
+   839	Graffiti: Graffiti reading “<caster’s name> was here!” appears on target written in ink. Ink is visible even if target is not.
+   840	Handedness: Handedness of target is reversed. Target must take time to switch hands or suffer the appropriate penalty.
+   841	Rust: Target is the subject of a Rust spell; all non-magical metal on the target must save or be reduced to dust.
+   842	Light: Harmless colourful light beams radiate from caster.
+   843	Worm: A large green worm appears and jumps at the target.
+   844	Wine: All water within 60’ of caster turns to fine Elvin wine. Cheers!
+   845	Nails: All claws and nails within 30 feet of caster are filed short and blunt, making them harmless.
+   846	Upside down/right side up: Target is turned upside down and right side up in the same round. Target is stunned 3 rounds and is at –3 s/p/d.
+   847	Spells: All spells cast during the next round will last 10 times longer than normal. Do not inform caster of this.
+   848	Beer: A stream of beer shoots from caster’s fingertips for 1d3 rounds.
+   849	Pearls: All caster’s coins are transformed into pearls (100 GP base value). They will remain pearls until 2 hours after they are sold or traded to someone else, then return to normal. They cannot be used as spell components.
+   850	Jump: Caster jumps in a random direction d3x20 feet. Caster cannot jump more than 20 feet backwards.
+   851	Darkness: Darkness, 10’ radius, centered on target for one round. It reappears in the 3rd, 5th, etc. for 2d20 rounds.
+   852	Laughter is the Best Medicine: Target can do nothing but laugh uncontrollably for d8 rounds, but they are also healed of 1d8 HP in the process.
+   853	Cream Pie: Cream pie flies at target; target must waste a round wiping it off his face or fight at –2 for the next 3 rounds.
+   854	Bottled: A jinn bottle appears; target must make a save vs. spell or be forced inside and the jinn released. If target makes his save, a randomly chosen ally of target is next, one by one until one fails his save. If they all make their saves, the caster’s party is next. If everyone makes their save, the caster is automatically bottled.  The jinn is under the caster’s control if the target/ally of target fails their, if a party member gets stuck, the jinn is under the target’s control.  If the caster is alone, there will be a battle of wills.  Jinn’s ME=10.
+   855	Balloon: Target inflates like a balloon for d4 rounds and deflates for another d4 rounds. This only affects living material up to 1000 pounds and will not float.
+   856	Enlarge: Caster is endowed with impressively large genitals (if male) or breasts (if female).
+   857	Music: The first four notes of Beethoven’s Fifth Symphony echo through the air. All creatures within hearing range hostile to caster are affected by Fear, as the spell, if they fail a save vs. magic.
+   858	Dumbo: Target’s ears grow enormously huge (1 foot per round) until target falls over from the weight after 2d4 rounds.  The ears will then fall off and fly to the caster’s home, where they will mount themselves over the front door and flap for visitors. Target’s ears are otherwise unharmed.
+   859	Polymorph: Target polymorphs into a reptile/amphibian appropriate for the area, or a random type if no reptiles/amphibians are around; 40% chance for a monster type.
+   860	Spell: The first spell caster ever learned takes effect.
+   861	Precognition: Caster has an accurate vision of the future (as per Anticipations) about one hour head. Unfortunately, the vision lasts 1d4 rounds, during which time the caster can only stare straight ahead.
+   862	Heal: Caster is healed of 10 HP if wounded.
+   863	Rubber: All weapons and armour within a 50’ radius of caster become rubbery and useless for 2d4 rounds. Weapons used during this time will be ruined, armour becomes form fitting.
+   864	Scream: Target screams (wasting a round, though voice or breath weapon attacks take effect automatically).
+   865	Reverse: Every object on target reverses itself; armour is on backward, sword is in other hand, etc.
+   866	Wither: All plants in a 20’radius around caster wither and die.
+   867	PS: Caster’s PS bonus is doubled for rounds equal to the level of the intended spell.  If they have no PS bonus, they gain a +2 for the duration.
+   868	Fall: Target falls down and is pinned there as though under a great weight for 3 rounds.
+   869	Aura: Caster’s aura changes randomly and continuously for the next 1d3 days.
+   870	Dust: Thick dust covers target, 50% chance target is allergic to it and starts sneezing uncontrollably.
+   871	Invisible Paralysis: Target is turned Invisible, as per Invisibility, and Paralyzed at the same moment. This lasts for 1d4 rounds.
+   872	Polymorph: Target polymorphs into a plant appropriate for the area, or a random type if no plants are around; 40% chance for a monster type (Huorn, Deathwoode, etc).
+   873	Polymorph: Target polymorphs into a bird appropriate for the area, or a random type if no birds are around; 40% chance for a monster type.
+   874	Undead: Target will rise as a random undead when killed (no save), if target is already undead, all its damage is healed.
+   875	Precognition: Caster has foreknowledge of the next 3 unstable effects, but the information is only 75% correct.
+   876	Insecticide: Target is sprayed with mostly harmless insecticide. Does 5d10 hits of damage to large insect/insect-like creatures, kills small insects.
+   877	Slow: Target is Slowed (opposite of Haste) for 2 rounds.
+   878	Repeat: All spells cast during the previous round are re-cast again this round (no cost), affecting the same targets again.
+   879	Curse: Caster Curses target if he fails a save vs. magic. Random curse. 
+   880	Marbles: Marbles appear on the floor next to the target. Target will have to make PP rolls at -3 every round to stay on his feet.
+   881	Stay with us: The next time the PC’s enter a town the inhabitants will try any method available, short of imprisonment, to try to get the PC’s to live there permanently.
+   882	Success: Caster automatically succeeds on her next roll.
+   883	Butterfingers: Target drops his weapon.
+   884	Colour Dance; Shimmering colours dance and play in a 12’x9’ area directly in front of the caster. Everyone caught inside is stunned.
+   885	Save: The intended spell functions but any saves are made with an additional modifier of +1.
+   886	Oil: A spray of boiling oil strikes the target and he takes a point-blank fireball attack.
+   887	B.O.: Target emits a bad odor; only the strongest perfume/cologne will cover it up.
+   888	Naked: Target’s clothing and armour fall to the ground.
+   889	Dance?: Target jumps around wildly (as if in a mosh pit) for 2 rounds.
+   890	Circle: One of the caster’s items pops over and draws the appropriate Circle to confine the target. Targets susceptible to summoning must resist at –2 to avoid being encircled. The item drops at the circle.
+   891	Invisible: Caster is affected by Invisibility, normal.
+   892	Beauty: Caster’s PB is raised to 30. Anyone viewing her will act appropriately.
+   893	Gravity: No gravity at the target’s location (max 5’ radius) for 1 hour.
+   894	Vanished: Target disappears, only to reappear nearby when the caster casts another spell or is killed.
+   895	Bonus Negation: All bonuses (regardless of type i.e. + to strike, save, etc.) are negated for 2d10 rounds for all creatures within 100 feet of the caster.
+   896	Identify: Caster can automatically identify one item in the next 24 hours with a 100% chance of success. She will know everything about the item, e.g. its properties, who made it and when, who has owned it, etc.
+   897	Gold: All lead in the caster’s possession turns to gold.
+   898	Invisible: All creatures in a 20’ sphere centered on caster become invisible, as per Invisibility Sphere, except caster who is still visible.
+   899	Slime: A bucket of green slime appears over target’s head and dumps the slime all over the target.
+   900	Gems: 4d10 (10 minimum) 1 gp base value uncut gems shoot from the caster’s fingertips at the target.
+   901	Stone Teeth: The caster’s teeth turn into unbreakable white stone. She can chew through just about anything (including soft metals) and never gets a cavity again. If caster already has stone teeth this surge removes them.
+   902	Random: A random spell at the same level of the intended spell affects the target instead.
+   903	Camouflage: Caster’s clothing changes colour to match the surrounding environment as per the Camouflage spell. If the environment changes the caster’s clothes will not change again.
+   904	Mute: Target is mute for the next day.
+   905	Water: Target finds his lungs filled with water; he must make a PE check or die.  If they make it, they can do nothing but cough and sputter for 1d4 rounds
+   906	Pocket: Target is sucked into an extra-dimensional pocket for the duration of the intended spell.
+   907	Cold: A 10’ radius area chosen by the caster becomes intensely cold (for the surrounding environment) for one hour.
+   908	Congratulations: The intended spell functions as intended.
+   909	Mist form: Caster gains Mist form. Can be used once per day for 1d4 rounds.
+   910	Fire: Normal fire springs up at the target’s feet.
+   911	Steel: Caster’s skin turns to steel, giving her an AR of 18 for 1d6 rounds.
+   912	Nature’s Call: Target has an urgent call from nature and must immediately retreat to relieve himself.
+   913	Timeshift: Target is sent d4 rounds forward in time. To everyone else it looks like the target simply disappeared.
+   914	Master Poet: Target begins to recite very bad poetry for 2d4 rounds, taking no other action unless attacked.
+   915	Hole: The ground opens up and swallows target up to the neck. (Fore!)
+   916	Greater Familiar: A creature of light/dark appears and will agree to become the caster’s familiar if they request it.
+   917	Transformation: Target’s weapon or other possession becomes a teddy bear (25%), leg of mutton (25%), or red herring (50%).  If target has no possessions roll again.
+   918	Power: Caster’s next spell is cast as though she were d4 levels higher.
+   919	Shot: Target shot with 1d10 darts (1d4 dam each)
+   920	Fist: Target is struck by an invisible fist (1d4 dam)
+   921	Fumble: Target’s next action automatically fumbles as though he rolled a 01.
+   922	Stun: Target is stunned for d10 rounds.
+   923	Familiar: Caster gains a familiar if she doesn’t already have one. It will appear in 1d4 hours and no spells are necessary to affect the bond.
+   924	Teleport: Target is teleported 30 feet directly above caster and will fall the next round. +30 Fall/Crush, and caster may be hit if she fails to notice the falling target!
+   925	Arrow: 1d4 flame arrows shoot at target. Use caster’s archery attack bonus, or spell strength, whichever is greater.  Roll each attack separately.  Arrows do Longbow damage.
+   926	Tears: Water sprays from the caster’s tear ducts like a water pistol, Water type: 1=normal, 2=holy, or 3=unholy.
+   927	Spell: The target, if able to cast spells, casts them all with random targets and normal expenditure.
+   928	Midas Touch: Caster gains the Midas touch. For the next d3 rounds, anything smaller than her that she lays her hands on will turn to solid gold.
+   929	Fascination: Target is fascinated by what the caster is doing and will stop whatever he is doing to watch.
+   930	Turn Dead: Caster gains the use of Turn Undead (at 100%) for one time only. It need not be used immediately.
+   931	Earwigs: Target is covered in earwigs. These do no damage but are likely to greatly annoy the target and gross everyone else out as they drop off his body and scurry away.
+   932	Horn: Loud horn sound. This has the effect of raising everyone’s morale, as they feel inspired.  (Priestesses and followers of Eilistraee get +2 on all attacks for the following round, believing themselves to be divinely inspired.)
+   933	Stone to Flesh: Stone to Flesh on 1d100 pounds of rock within 100 feet of the caster.
+   934	Spell: Caster learns a randomly chosen spell. Can be from any realm (wizard, clerical, elemental, etc.) and need not fit any of her existing OCC’s.
+   935	Flame: Small licks of flame shoot from caster’s fingertips. These do no damage but can ignite flammables.
+   936	Sing: Caster begins singing as though she had 15th level singing. This lasts for 3 days and she hums in her sleep.
+   937	Force Chains: Target is wrapped in chains of force that will give him a jolt of Electricity (1d8 dam) if he struggles.  Target is entitled to a RR at the caster’s level.
+   938	Flames: Target bursts into flames, taking a 1d8 dam every round until the flames are extinguished.
+   939	Metal to Wood: All metal on the target turns into wood.
+   940	Success/Failure: Caster is struck by a sudden bit of insight about a random skill and will succeed the next time she uses that skill as if she rolled a 01. The spell however is forgotten.
+   941	Language: Caster is suddenly fluent (Level 5) in a previously unknown (to her) language that is common in the area.
+   942	Grease Lightning: A lightning bolt shoots from the caster’s fingers.  When it strikes the target (no damage) it splashes and the target is covered in slick grease.
+   943	Animation: Caster picks an object nearby for Animation. The object must be smaller than the caster but is under the caster’s control.
+   944	Golem: A golem is created from the nearest appropriate substance. 50/50 chance it will obey or attack the caster.
+   945	Heat: Caster chooses one object within 100’ to heat up to 200 degrees Fahrenheit.
+   946	Summon: A pillow (25%), small table (25%), or anvil (50%) appears over the target’s head. The pillow causes no damage; the table causes 1d10 points of damage, and the anvil 4d6 points of damage.
+   947	Teleport: Target is teleported 1d100 miles away (horizontally)
+   948	Steel: Target is bound in High Steel straps. These will take a skilled locksmith to remove.
+   949	Rhyme: Target polymorphs into something rhyming with its name (DM choice).
+   950	Cement Overshoes: Target buried to his waist or to 5’ (whichever is less) in solid concrete. He fights at –5.
+   951	Stop: Target immediately stops what he is doing to sit down and perform some other non-combat related skill with whatever materials are at hand (e.g. making money bags out of his cloak).
+   952	Dust: Target crumbles to dust, with a 20% chance per round he will return to normal. If the dust is scattered, the target is destroyed.
+   953	Experience: Caster gains 5000 experience points and generates another random effect.
+   954	Webs: Target is covered in spider webs, complete with thousands of tiny spiders that will crawl into every crevice and space in his armour.
+   955	Wand: A nearby wand/rod/staff doubles in size (retaining its magical properties). If cut in half, both pieces become Wands of Random Spells and each has half the original number of charges.
+   956	Oil: Target instantly coated in unlit flammable oil.
+   957	Fly: A randomly chosen item on the target’s person sprouts wings and flies away.
+   958	Suicide: Target attempts to commit suicide for 3 rounds. Must roll normal attacks on himself.  If he inflicts a serious wound or stuns himself he stops, as it really is just a cry for help.
+   959	Platinum: All gold in the caster’s possession turns to platinum.
+   960	Dragon Breath: Caster breathes fire as a Young Fire Drake for one breath only.
+   961	Poison: All fluid in containers on target turn to deadly poison.
+   962	Jello: Target turns into a block of raspberry flavored Jello; all his possessions are suspended in the Jello.
+   963	Teleport: Target is teleported home/to lair/etc. There is a possibility of error as per Teleport.
+   964	Sentient: A nearby tree becomes sentient and is under the control of the caster. It may attack immediately if the caster chooses. This lasts for 1 turn. However, if the tree dies, the caster also dies.
+   965	Come back here: Target’s weapons jump off him and bounce away out of reach.
+   966	Displaced: Target is displaced 10 feet to the right.
+   967	Levitate: Target levitates 20 feet above the ground for 3d10 rounds.
+   968	Disease: Target gets a random disease, random.
+   969	Just call Me Stretch: Caster’s arm stretches out and slaps the target across the face. This could be quite entertaining in a crowded bar when the target is 50 feet away.
+   970	Caltrops: 1D12 caltrops appear at the target’s feet.
+   971	Hammer: A war hammer flies at the target, strikes at +10 and does critical damage. It then disappears.
+   972	Doppelganger: A doppelganger of the caster appears in the caster’s place, as she is teleported to appropriate cover. The simulacrum is under the caster’s control.
+   973	Waiting Fireball: Fireball, conditional as per the spell, caster can name the condition that triggers the blast.
+   974	Stats: Either target or caster must reduce all their statistics to the lowest one; 90% target, 10% caster.
+   975	Run Away: Targets circulatory system jumps out and runs away. Oddly, this has no ill effect on target.
+   976	Magic Weapons: All weapons within 60 feet of caster receive a random lesser magical attribute.
+   977	Frozen: Target is cooled to absolute zero and may shatter if hit. Target must make a successful PE check at –10 to survive the thawing process.
+   978	PE: The next living creature the caster touches loses 3 points of PE, which is added to caster’s.
+   979	Level: Caster gains 2 experience levels.
+   980	Cast a Spell for Free: Caster may cast a spell of her choice of 14th level or less, instantaneously. Give the player 10 timed seconds to choose.  No spell cost.
+   981	Hit Points: The caster drains the target of as many hit points as are required to put the caster at maximum. The target will regain these lost hit points if the caster is killed, and is aware of this fact.
+   982	Edward SwordHands: Caster’s hands turn into +5 magical melee weapons appropriate for her primary weapon. Caster may attack as per their WP.  The hands return to normal after 5 rounds.
+   983	Dancing Weapon:  One of caster’s weapons flies through the air and attacks target as per a Dancing Weapon.
+   984	Brrrr:  Cone of Cold directed at target. Brrrrr.
+   985	Heal: Next successful attack by target on caster heals instead of harms.
+   986	Arrows: Target sees a volley of arrows headed for him and will react appropriately. They’re not really there, though, and his allies wonder what the heck he’s doing.
+   987	Rubber Ducky, you’re the one: A giant (6’ tall) rubber ducky falls out of the sky to land between caster and target with a loud “SQWEEKEE.”  It vanishes after 1d6 rounds.
+   988	Oh, God(dess): The caster’s deity is summoned. This does not oblige the deity to come, but is liable to attract attention. A reasonably smart deity will recognize the summoning as unintentional, but may still watch the caster a little closer for a while.
+   989	Baby: Target turned into an infant of the same race. He reverts to his original age after 1d10 rounds.
+   990	Artefact: A magical artefact of great power is transported into the caster’s hands. The caster is affected normally by handling it if it has detrimental effects. The previous owner will probably be missing it and be coming after it very soon.
+   991	Knowledge: Caster instantly knows all sorts of information about the target; its mission, race, general history, name, profession, level, abilities, strengths, weaknesses, mother’s first name, etc.
+   992	Silver Bullets: 1d4 silver bullets fly at target. Bullets contain 1 sp worth of metal each.
+   993	It’s Magic: All magic items on target take effect. Target is the target as all runes are read, one charge from charged items are expended, any daily items go off, etc. Weapons and the like only cause effects if they do something other than cause damage, e.g. a haste spell, stun relief, etc.
+   994	Cubes: All non-living items in a 10-foot radius of target are sliced into 1-inch cubes by radiant force fields (except ethereal creatures). Magic Items get a save at +2.  Appropriate effects should a magic item be destroyed by this.
+   995	Reflection: Caster steals target’s reflection for 1d20 days. For that time, anytime caster looks in a mirror she will see the target instead of herself.  (Target will be ‘reflected’ doing whatever it is the target is actually doing.  If they are blocked from scrying, Caster has no reflection at all!)
+   996	Attack: A rock launches itself from the ground and strikes target on the head. This does no damage except to skew any helm he has on and make him think he’s being attacked from someplace else.
+   997	Comics: All of target’s actions for 2d4 turns are accompanied by theme music and pop-up balloons containing his thoughts.
+   998	Announcer: An announcer’s voice is heard, announcing everyone’s moves and offering critique when someone does something wrong. When it’s all over, the voice will give a synopsis of the event and a final opinion, good or bad.
+   999	Gold: A spray of molten gold shoots from the caster’s hands towards the target.  This lasts 1d6 melees.  (Target may dodge at 16)  If it hits, target takes appropriate damage.  If the target dodges the caster may re-aim every melee.  If the caster hits the target for more than 4 melees target looks like a golden statue of themselves, and is most likely dead from the damage.
+  1000	Hero: Hero or other famous figure friendly to caster is summoned and remains for one turn.
